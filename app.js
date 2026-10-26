@@ -12,6 +12,24 @@
     });
   }
 
+  // Referral links (fedbid.us/?r=code): remember the code and hand it to Stripe so both sides get a free month
+  var rm = /[?&]r=([0-9a-f]{8})(?:&|$)/.exec(location.search);
+  if (rm) store("fb_ref", rm[1]);
+  var ref = store("fb_ref");
+  if (ref && /^[0-9a-f]{8}$/.test(ref)) {
+    $$('a[href^="https://buy.stripe.com/"]').forEach(function (a) {
+      a.href += (a.href.indexOf("?") < 0 ? "?" : "&") + "client_reference_id=" + ref;
+    });
+    if (rm) {
+      var note = document.createElement("div");
+      note.className = "callout"; note.style.margin = "0";
+      note.innerHTML = '<div class="wrap"><b>You were invited by a FedBid member.</b> Start your free trial, and ' +
+        "after your first paid month you get a month free.</div>";
+      var main = $("#main");
+      if (main) main.insertBefore(note, main.firstChild);
+    }
+  }
+
   // Mobile menu
   var mb = $(".menu-btn");
   if (mb) mb.addEventListener("click", function () {
