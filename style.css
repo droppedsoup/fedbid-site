@@ -1,4 +1,4 @@
-:root{--bg:#ffffff;--soft:#f5f7fa;--ink:#111827;--muted:#5b6472;--line:#e3e7ed;--navy:#1b3a6b;--navy-dark:#132a4f;--navy-tint:#e9eff8;--green:#1a7f45;--amber:#a35a00;--red:#b42318;--font:Inter, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif}
+:root{--bg:#ffffff;--soft:#f5f7fa;--ink:#111827;--muted:#5b6472;--line:#e3e7ed;--navy:#1b3a6b;--navy-dark:#132a4f;--navy-tint:#e9eff8;--gold:#b8913f;--green:#1a7f45;--amber:#a35a00;--red:#b42318;--font:Inter, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif}
 /* fedbid.us styles. Colors come from alertbot/theme.py as CSS variables (build_site.py prepends :root). */
 *{box-sizing:border-box}
 [hidden]{display:none!important}
@@ -18,7 +18,10 @@ img{max-width:100%;height:auto}
 .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--green);margin-right:6px;vertical-align:1px}
 nav.main{border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:10}
 nav.main .wrap{display:flex;align-items:center;gap:18px;min-height:64px}
-.logo{font-size:21px;font-weight:800;color:var(--navy);text-decoration:none;letter-spacing:-.3px;white-space:nowrap}
+.logo{font-size:21px;font-weight:800;color:var(--navy);text-decoration:none;letter-spacing:-.3px;white-space:nowrap;
+  display:inline-flex;align-items:center;gap:9px}
+.logo .seal{display:block;flex:none}
+.logo b{font-weight:inherit}
 .logo span{color:var(--muted);font-weight:600}
 .links{display:flex;gap:4px 18px;flex-wrap:wrap;margin-left:auto;align-items:center}
 .links a{color:var(--ink);text-decoration:none;font-size:15px;font-weight:500}

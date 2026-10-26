@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="FedBid.us seal">
+<defs><path id="top" d="M19,60 a41,41 0 0,1 82,0"/><path id="bottom" d="M12.5,60 a47.5,47.5 0 0,0 95,0"/></defs>
+<circle cx="60" cy="60" r="59" fill="#1b3a6b"/>
+<circle cx="60" cy="60" r="55.5" fill="none" stroke="#b8913f" stroke-width="1.6"/>
+<circle cx="60" cy="60" r="52.5" fill="none" stroke="#b8913f" stroke-width=".6" stroke-dasharray="1.2 1.6"/>
+<text font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle"><textPath href="#top"
+ startOffset="50%" textLength="100.5" lengthAdjust="spacing">FEDERAL BID ALERTS</textPath></text>
+<text font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle"><textPath href="#bottom"
+ startOffset="50%" textLength="62.7" lengthAdjust="spacing">FEDBID.US</textPath></text>
+<polygon points="15.20,56.60 14.36,58.84 11.97,58.95 13.84,60.44 13.20,62.75 15.20,61.43 17.20,62.75 16.56,60.44 18.43,58.95 16.04,58.84" fill="#b8913f"/><polygon points="104.80,56.60 103.96,58.84 101.57,58.95 103.44,60.44 102.80,62.75 104.80,61.43 106.80,62.75 106.16,60.44 108.03,58.95 105.64,58.84" fill="#b8913f"/>
+<circle cx="60" cy="60" r="30.5" fill="#ffffff" stroke="#b8913f" stroke-width="2.2"/>
+<circle cx="60" cy="60" r="27" fill="none" stroke="#1b3a6b" stroke-width=".7"/>
+<polygon points="60.00,37.90 58.86,40.94 55.63,41.08 58.16,43.10 57.30,46.22 60.00,44.43 62.70,46.22 61.84,43.10 64.37,41.08 61.14,40.94" fill="#b8913f"/>
+<text x="60" y="68.5" text-anchor="middle" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="21" font-weight="800"
+ letter-spacing="-.5" fill="#1b3a6b">FB</text>
+<text x="60" y="79" text-anchor="middle" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="5.4" font-weight="700"
+ letter-spacing="1.2" fill="#b8913f">EST. 2026</text>
+</svg>
