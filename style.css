@@ -225,3 +225,22 @@ footer a{color:var(--muted)}
 @media print{nav.main,.topbar,.filters,.sticky-cta,footer,.toolbar,.cta-strip,.acts{display:none!important}
   .explorer{display:block}.bid{break-inside:avoid}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+/* member dashboard */
+#ov-stats{margin-bottom:28px}
+.stats .stat{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+.card label,#dash .card label{display:block;font-size:13px;font-weight:700;margin:14px 0 6px}
+#dash input:not([type=file]),#dash select,#dash textarea{width:100%;font:inherit;font-size:15px;padding:9px 10px;
+  border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);box-sizing:border-box}
+#dash .toolbar select,#dash .toolbar input{width:auto}
+#dash .toolbar .grow{flex:1;min-width:180px}
+.dash-tabs{display:flex;flex-wrap:wrap;gap:4px;border-bottom:1px solid var(--line);margin:8px 0 20px}
+.dash-tabs button{font:inherit;font-size:15px;font-weight:600;background:none;border:0;border-bottom:3px solid transparent;
+  padding:10px 12px;color:var(--muted);cursor:pointer}
+.dash-tabs button[aria-selected=true]{color:var(--navy);border-bottom-color:var(--navy)}
+.dash-list{list-style:none;padding:0;margin:0 0 12px}
+.dash-list li{display:flex;gap:12px;align-items:center;border:1px solid var(--line);border-radius:10px;padding:12px 14px;
+  margin-bottom:8px;background:#fff}
+.dash-list .grow{flex:1;min-width:0}
+#dash .notes{margin-top:10px;font-size:14px}
+.draft-out{font-family:Georgia,serif!important;line-height:1.5}
+@media (max-width:600px){.dash-list li{flex-wrap:wrap}}

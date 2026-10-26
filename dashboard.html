@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Member dashboard | FedBid.us</title>
+<meta name="description" content="FedBid.us Pro member dashboard: saved searches, bid tracker and bid-drafting tools.">
+<link rel="canonical" href="https://fedbid.us/dashboard.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Member dashboard | FedBid.us">
+<meta property="og:description" content="FedBid.us Pro member dashboard: saved searches, bid tracker and bid-drafting tools.">
+<meta property="og:url" content="https://fedbid.us/dashboard.html">
+<meta property="og:image" content="https://fedbid.us/img/construction.jpg">
+<link rel="apple-touch-icon" href="/img/seal.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#ffffff">
+<link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="New federal bids (FedBid.us)" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link href="/style.css" rel="stylesheet">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="topbar"><div class="wrap">
+ <span><span class="dot" aria-hidden="true"></span>297 open bids tracked</span>
+ <span>SAM.gov checked Oct 26</span>
+ <span>Updated October 26, 2026</span>
+</div></div>
+<nav class="main" aria-label="Main"><div class="wrap">
+ <a class="logo" href="/"><img class="seal" src="/img/seal.svg" width="34" height="34" alt=""><b>FedBid<span>.us</span></b></a>
+ <button class="menu-btn" aria-expanded="false" aria-controls="links">Menu</button>
+ <div class="links" id="links"><a href="/bids.html">Search bids</a><a href="/insights.html">Insights</a><a href="/naics.html">NAICS codes</a><a href="/guide.html">How to bid</a><a href="/samples.html">Sample emails</a><a href="/pricing.html">Pricing</a><a class="btn" href="/pricing.html">Start free trial</a></div>
+</div></nav>
+<main id="main">
+<section class="tight"><div class="wrap" id="dash">
+ <p class="crumbs"><a href="/">Home</a> / Member dashboard</p>
+ <div id="gate">
+  <h1 style="font-size:clamp(28px,4vw,40px)">Pro member dashboard</h1>
+  <p class="sub">Saved searches, a bid tracker and drafting tools for capability statements, cover letters and questions
+  to the contracting officer. Included with every <a href="/pricing.html">Pro plan</a>.</p>
+  <form id="gate-form" class="card" style="max-width:520px">
+   <label for="gate-key" style="margin-top:0">Member key</label>
+   <input id="gate-key" autocomplete="off" placeholder="From your welcome email">
+   <p><button class="btn" type="submit">Open dashboard</button></p>
+   <p id="gate-msg" class="muted" aria-live="polite">Use the "Open my dashboard" button in your welcome email; it fills this in.</p>
+  </form>
+ </div>
+ <div id="app" hidden>
+  <div class="toolbar"><h1 class="grow" style="font-size:clamp(24px,3.4vw,34px);margin:0">Your dashboard</h1>
+   <span class="muted" id="updated"></span><button class="btn ghost sm" id="signout">Sign out</button></div>
+  <div class="dash-tabs" role="tablist">
+   <button data-tab="overview" aria-selected="true">Overview</button><button data-tab="searches">Saved searches</button>
+   <button data-tab="tracker">Bid tracker</button><button data-tab="draft">Drafting</button>
+   <button data-tab="profile">Company profile</button></div>
+  <div class="dash-panel" id="p-overview">
+   <div class="stats" id="ov-stats"></div>
+   <h2>Due in the next 14 days</h2><div id="ov-soon"></div>
+   <h2>Saved searches</h2><div id="ov-searches"></div>
+   <h2>Backup</h2><p class="muted">Your dashboard is saved in this browser. Export it to keep a copy or move it to
+   another device.</p>
+   <p><button class="btn ghost sm" id="export">Export backup</button>
+   <label class="btn ghost sm" style="margin-left:6px">Import backup<input type="file" id="import" accept=".json" hidden></label></p>
+  </div>
+  <div class="dash-panel" id="p-searches" hidden>
+   <div id="searches"></div>
+   <h2>Add a saved search</h2>
+   <form id="add-search" class="card">
+    <label for="as-name" style="margin-top:0">Name</label><input id="as-name" placeholder="e.g. HVAC in Texas">
+    <label for="as-q">Keyword</label><input id="as-q" placeholder="optional">
+    <label for="as-trade">Trade</label><select id="as-trade"><option value="">All trades</option><option value="security">Security guard</option><option value="plumbing_hvac">Plumbing and HVAC</option><option value="construction">Commercial construction</option><option value="it_services">IT services</option><option value="moving">Moving and relocation</option></select>
+    <label for="as-state">State</label><input id="as-state" maxlength="2" placeholder="e.g. TX (optional)">
+    <p><button class="btn sm" type="submit">Save search</button></p>
+    <p class="muted">For NAICS, set-aside, agency and deadline filters, build the search on
+    <a href="/bids.html">Search bids</a> and press <b>Save search</b>.</p>
+   </form>
+  </div>
+  <div class="dash-panel" id="p-tracker" hidden>
+   <div class="toolbar"><input id="find" type="search" class="grow" placeholder="Find a bid to track: title, agency, notice ID">
+    <button class="btn ghost sm" id="csv">Download CSV</button></div>
+   <ul class="dash-list" id="find-results"></ul>
+   <div id="tracker"></div>
+  </div>
+  <div class="dash-panel" id="p-draft" hidden>
+   <p class="sub">Drafts fill in from your company profile and the bid. Edit before sending; you are responsible for
+   what you submit.</p>
+   <div class="toolbar"><select id="d-kind"><option value="letter">Cover letter</option>
+    <option value="capability">Capability statement</option><option value="questions">Questions for the contracting officer</option>
+    <option value="checklist">Bid checklist</option></select>
+    <select id="d-bid" class="grow"></select><button class="btn sm" id="d-make">Draft</button></div>
+   <textarea id="d-out" rows="22" class="draft-out" aria-label="Draft"></textarea>
+   <p><button class="btn ghost sm" id="d-copy">Copy</button> <button class="btn ghost sm" id="d-save">Download</button>
+    <button class="btn ghost sm" id="d-print">Print</button></p>
+  </div>
+  <div class="dash-panel" id="p-profile" hidden>
+   <form id="profile" class="card" onsubmit="return false">
+    <p class="muted" id="pf-saved" style="margin-top:0">Fill this in once; every draft uses it. Saved on this device.</p>
+    <label for="pf-company">Company name</label><input id="pf-company" placeholder=""><label for="pf-contact">Contact name</label><input id="pf-contact" placeholder=""><label for="pf-title">Title</label><input id="pf-title" placeholder="e.g. Owner">
+    <label for="pf-phone">Phone</label><input id="pf-phone" placeholder=""><label for="pf-email">Email</label><input id="pf-email" placeholder=""><label for="pf-address">Address</label><input id="pf-address" placeholder=""><label for="pf-website">Website</label><input id="pf-website" placeholder="">
+    <label for="pf-uei">SAM UEI</label><input id="pf-uei" placeholder="12 characters, from SAM.gov"><label for="pf-cage">CAGE code</label><input id="pf-cage" placeholder="">
+    <label for="pf-naics">NAICS codes</label><input id="pf-naics" placeholder="e.g. 238220, 236220"><label for="pf-years">Years in business</label><input id="pf-years" placeholder="">
+    <label for="pf-certs">Certifications / small business status</label><textarea id="pf-certs" rows="3" placeholder="One per line, e.g. Small Business, SDVOSB"></textarea>
+    <label for="pf-core">Core services</label><textarea id="pf-core" rows="3" placeholder="One per line"></textarea>
+    <label for="pf-past">Past performance</label><textarea id="pf-past" rows="3" placeholder="One per line: client, project, value, year"></textarea>
+    <label for="pf-diff">What sets you apart</label><textarea id="pf-diff" rows="3" placeholder="One per line"></textarea>
+   </form>
+  </div>
+ </div>
+</div></section>
+<script src="/dashboard.js" defer></script></main>
+<footer><div class="wrap">
+ <div class="cols4">
+  <div><img src="/img/seal.svg" width="76" height="76" alt="FedBid.us seal" style="display:block;margin-bottom:10px">
+   <a class="logo" href="/"><b>FedBid<span>.us</span></b></a>
+   <p>New federal contract bids for your trade, emailed every weekday morning.</p></div>
+  <div><h4>Trades</h4><ul><li><a href="/trades/security.html">Security guard</a></li><li><a href="/trades/plumbing_hvac.html">Plumbing and HVAC</a></li><li><a href="/trades/construction.html">Commercial construction</a></li><li><a href="/trades/it_services.html">IT services</a></li><li><a href="/trades/moving.html">Moving and relocation</a></li></ul></div>
+  <div><h4>Tools</h4><ul><li><a href="/bids.html">Search bids</a></li><li><a href="/insights.html">Market insights</a></li>
+   <li><a href="/naics.html">NAICS codes</a></li><li><a href="/samples.html">Sample emails</a></li>
+   <li><a href="/feed.xml">RSS feed</a></li></ul></div>
+  <div><h4>Learn</h4><ul><li><a href="/guide.html">How to bid</a></li><li><a href="/glossary.html">Glossary</a></li>
+   <li><a href="/faq.html">FAQ</a></li><li><a href="/updates.html">Updates</a></li></ul></div>
+  <div><h4>Account</h4><ul><li><a href="/pricing.html">Pricing</a></li><li><a href="/dashboard.html">Member dashboard</a></li><li><a href="https://billing.stripe.com/p/login/bJeeVdg4Nfcv7yO3ftdIA00">Manage or cancel</a></li>
+   <li><a href="/contact.html">Contact</a></li><li><a href="/terms.html">Terms &amp; privacy</a></li></ul></div>
+ </div>
+ Federal Bid Alerts is an independent service. Not affiliated with SAM.gov or the U.S. government.<br>101 Pebble Point Covington, GA 30016
+</div></footer>
+
+<script src="/app.js" defer></script>
+</body></html>

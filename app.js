@@ -151,8 +151,15 @@
       (d !== null ? '<span class="left ' + cls + '">' + d + " day" + (d === 1 ? "" : "s") + " left</span>" : "") +
       '<span class="acts"><a class="btn sm" href="' + esc(b.u) + '" target="_blank" rel="noopener">View on SAM.gov</a>' +
       (b.d ? '<button class="linkbtn" data-ics="' + esc(b.id) + '">Add to calendar</button>' : "") +
-      '<button class="linkbtn" data-copy="' + esc(b.u) + '">Copy link</button></span></div></li>';
+      '<button class="linkbtn" data-copy="' + esc(b.u) + '">Copy link</button>' +
+      (MEMBER ? '<button class="linkbtn" data-track="' + esc(b.id) + '"' + (tracked()[b.id] ? " disabled>Tracking" : ">Track") + "</button>" : "") +
+      "</span></div></li>";
   }
+
+  // Pro members (key saved by the dashboard) can track bids and save searches from here.
+  var MEMBER = store("fb_member");
+  function getJSON(key, fallback) { try { return JSON.parse(store(key)) || fallback; } catch (e) { return fallback; } }
+  function tracked() { return getJSON("fb_tracked", {}); }
 
   function render(reset) {
     var s = readState();
@@ -229,7 +236,25 @@
     var open = $(".filters").classList.toggle("open");
     this.setAttribute("aria-expanded", open);
   });
+  if (MEMBER) {
+    $("#share").insertAdjacentHTML("beforebegin", '<button type="button" class="btn sm" id="save-search">Save search</button>');
+    $("#save-search").addEventListener("click", function () {
+      var q = toQuery(readState()), name = prompt("Name this search:", "My search");
+      if (name === null) return;
+      var list = getJSON("fb_searches", []);
+      list.push({ name: name || "My search", q: q, seen: results.map(function (b) { return b.id; }) });
+      store("fb_searches", JSON.stringify(list));
+      this.textContent = "Saved to dashboard";
+    });
+  }
   $("#list").addEventListener("click", function (e) {
+    var t = e.target.getAttribute("data-track");
+    if (t) {
+      var all = tracked(), b = DATA.bids.filter(function (x) { return x.id === t; })[0];
+      all[t] = { status: "Watching", notes: "", added: new Date().toISOString(), bid: b };
+      store("fb_tracked", JSON.stringify(all));
+      e.target.textContent = "Tracking"; e.target.disabled = true;
+    }
     var c = e.target.getAttribute("data-copy"), i = e.target.getAttribute("data-ics");
     if (c) copy(c, e.target);
     if (i) ics(DATA.bids.filter(function (b) { return b.id === i; })[0]);
