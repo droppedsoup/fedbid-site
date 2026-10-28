@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal IT services bids</title><link>https://fedbid.us/trades/it_services.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Tue, 27 Oct 2026 11:00:10 +0000</lastBuildDate><item><title>FOIA - Case Management</title><link>https://sam.gov/opp/0449387aca1647a2b0cb5b1d7556a520/view</link>
+<lastBuildDate>Wed, 28 Oct 2026 11:00:06 +0000</lastBuildDate><item><title>FOMS SOFTWARE DEVELOPMENT</title><link>https://sam.gov/opp/34551fb14f374336ac3439876ac2d7b6/view</link>
+<guid isPermaLink="false">34551fb14f374336ac3439876ac2d7b6</guid>
+<pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
+<description>Department of Transportation - Oklahoma City, OK - NAICS 541511 - due Nov 6, 2026</description>
+</item><item><title>Defense Health Agency (DHA), Portfolio Acquisition Executive, Medical Digital Solutions (PAE MDS), Enterprise Intelligence &amp; Data Solutions (EIDS) Program Management Office (PMO), Data Exchange Services Operations, Modernization, and Development</title><link>https://sam.gov/opp/3a565775c32449d0820eb1e870ed51cb/view</link>
+<guid isPermaLink="false">3a565775c32449d0820eb1e870ed51cb</guid>
+<pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
+<description>Department of Defense - VA - NAICS 541512 - due Oct 28, 2026 - No Set aside used</description>
+</item><item><title>F-35 JPO Enterprise Data Science and Analytics Support</title><link>https://sam.gov/opp/722a347c18cf4e9bbf866b7ce8f43f22/view</link>
+<guid isPermaLink="false">722a347c18cf4e9bbf866b7ce8f43f22</guid>
+<pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
+<description>Department of Defense - Arlington, VA - NAICS 541511 - due Nov 10, 2026</description>
+</item><item><title>DA10--Nurse Call Software Maintenance - NWI</title><link>https://sam.gov/opp/7e0090c37024464ebceb11c52bb85ac5/view</link>
+<guid isPermaLink="false">7e0090c37024464ebceb11c52bb85ac5</guid>
+<pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
+<description>Department of Veterans Affairs - Omaha, NE - NAICS 541512 - due Oct 28, 2026</description>
+</item><item><title>RFI-FY27-SI Powered Communications and Video Intelligence</title><link>https://sam.gov/opp/7f3d12aeb84b4b909e73c08d13396e58/view</link>
+<guid isPermaLink="false">7f3d12aeb84b4b909e73c08d13396e58</guid>
+<pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
+<description>Department of Homeland Security - Washington, DC - NAICS 541519 - due Oct 29, 2026 - No Set aside used</description>
+</item><item><title>NOAA NOS OCS Coast Pilot Production System- Maintenance and Support</title><link>https://sam.gov/opp/9a2889dccb1b46b08d36c9e9696c47aa/view</link>
+<guid isPermaLink="false">9a2889dccb1b46b08d36c9e9696c47aa</guid>
+<pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
+<description>Department of Commerce - Silver Spring, MD - NAICS 541511 - due Nov 6, 2026</description>
+</item><item><title>TOTAL ENGINEERING AND INTEGRATION SERVICES  (TEIS) IV On-Ramp Opportunity</title><link>https://sam.gov/opp/cbab4919e6bf4701a73a95605da7865b/view</link>
+<guid isPermaLink="false">cbab4919e6bf4701a73a95605da7865b</guid>
+<pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
+<description>Department of Defense - Fort Huachuca, AZ - NAICS 541512 - due Oct 30, 2026 - Small Business Set Aside - Partial</description>
+</item><item><title>FOIA - Case Management</title><link>https://sam.gov/opp/0449387aca1647a2b0cb5b1d7556a520/view</link>
 <guid isPermaLink="false">0449387aca1647a2b0cb5b1d7556a520</guid>
 <pubDate>Mon, 26 Oct 2026 16:46:22 +0000</pubDate>
 <description>Department of Defense - Washington, DC - NAICS 541519 - due Nov 5, 2026 - No Set aside used</description>
@@ -113,10 +141,6 @@
 <guid isPermaLink="false">123d8903b7054ab2a284fd9898c49e7f</guid>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Defense - MD - NAICS 541519 - due Nov 4, 2026 - No Set aside used</description>
-</item><item><title>VM Ware VCF Licenses</title><link>https://sam.gov/opp/30017ddaad2442e788d79c302bd4d239/view</link>
-<guid isPermaLink="false">30017ddaad2442e788d79c302bd4d239</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Agriculture - Albuquerque, NM - NAICS 541519 - due Oct 27, 2026 - Small Business Set Aside - Total</description>
 </item><item><title>DA01--CORP: VCS Standalone IT Support Contract  - RFI  (VA-27-00012857)</title><link>https://sam.gov/opp/3963d4cf1748410b93898ef07e436380/view</link>
 <guid isPermaLink="false">3963d4cf1748410b93898ef07e436380</guid>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
@@ -141,10 +165,6 @@
 <guid isPermaLink="false">eb0fceb8429d48a59dbe967937b9717e</guid>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <description>Millennium Challenge Corporation - Washington, DC - NAICS 541512 - due Oct 29, 2026 - No Set aside used</description>
-</item><item><title>Soteri Secret Scanning for Bitbucket license renew</title><link>https://sam.gov/opp/24a426fc555c42f79db7363c38b14ace/view</link>
-<guid isPermaLink="false">24a426fc555c42f79db7363c38b14ace</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<description>Social Security Administration - Location not listed - NAICS 541519 - due Oct 27, 2026</description>
 </item><item><title>DA10--Circle CVI Software or equivalent in support of VA Portland  Healthcare System  Portland, Oregon</title><link>https://sam.gov/opp/58aea428940840cc98c9267021cfd816/view</link>
 <guid isPermaLink="false">58aea428940840cc98c9267021cfd816</guid>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
@@ -173,10 +193,6 @@
 <guid isPermaLink="false">9b2565ce866e4780815eb62ff18b3e88</guid>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Homeland Security - Location not listed - NAICS 541512 - due Oct 28, 2026 - No Set aside used</description>
-</item><item><title>36C255-27-AP-0383 - IVX &amp; Cerner to Interface with EHRM</title><link>https://sam.gov/opp/75b1e510b71d42eb9d1b80524be6c985/view</link>
-<guid isPermaLink="false">75b1e510b71d42eb9d1b80524be6c985</guid>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Veterans Affairs - Columbia, MO - NAICS 541519 - due Oct 27, 2026</description>
 </item><item><title>W50NH9-27-R-A006 (formally W50NH9-26-R-A019) Scalable Geospatial Intelligence (GEOINT) Architecture Information Technology (IT) Contractor Manpower Equivalent (CME) Support (Scalable GEOINT)</title><link>https://sam.gov/opp/9062cba08c704f95ad579bb986068703/view</link>
 <guid isPermaLink="false">9062cba08c704f95ad579bb986068703</guid>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
@@ -185,20 +201,4 @@
 <guid isPermaLink="false">d6e90c863acc46a1a6105f080fe13efc</guid>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Defense - Location not listed - NAICS 541511 - due Oct 30, 2026</description>
-</item><item><title>Admin Management, Data Management, Software Development (Quality Assurance Inspection Software for EMS)</title><link>https://sam.gov/opp/f50d635e4b9d4404916c47df2357fc66/view</link>
-<guid isPermaLink="false">f50d635e4b9d4404916c47df2357fc66</guid>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Veterans Affairs - OR - NAICS 541519 - due Nov 3, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
-</item><item><title>Depot Maintenance Applications Consolidated 3</title><link>https://sam.gov/opp/70141559a4ad473f86a8f4687d37aaa4/view</link>
-<guid isPermaLink="false">70141559a4ad473f86a8f4687d37aaa4</guid>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - Dayton, OH - NAICS 541511 - due Oct 28, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
-</item><item><title>7A21--460-24-009 CLC and Fourth Floor Patient Elopement System</title><link>https://sam.gov/opp/d020c63f102d4cdb83b740621a293bb0/view</link>
-<guid isPermaLink="false">d020c63f102d4cdb83b740621a293bb0</guid>
-<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Veterans Affairs - Wilmington - NAICS 541519 - due Nov 9, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
-</item><item><title>JURY MANAGEMENT SOLUTION (JMS) SYSTEM</title><link>https://sam.gov/opp/6ba7c891fdc147868fc0fbca45bd54e7/view</link>
-<guid isPermaLink="false">6ba7c891fdc147868fc0fbca45bd54e7</guid>
-<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-<description>Administrative Office of the Us Courts - Washington, DC - NAICS 541511 - due Oct 30, 2026 - No Set aside used</description>
 </item></channel></rss>
