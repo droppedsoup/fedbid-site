@@ -1,22 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal IT services bids</title><link>https://fedbid.us/trades/it_services.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Wed, 28 Oct 2026 11:00:06 +0000</lastBuildDate><item><title>FOMS SOFTWARE DEVELOPMENT</title><link>https://sam.gov/opp/34551fb14f374336ac3439876ac2d7b6/view</link>
+<lastBuildDate>Thu, 29 Oct 2026 11:00:06 +0000</lastBuildDate><item><title>IBM Mainframes and Maintenance for the FDIC</title><link>https://sam.gov/opp/02af5ad04b744d20afa98349db2c8635/view</link>
+<guid isPermaLink="false">02af5ad04b744d20afa98349db2c8635</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
+<description>Federal Deposit Insurance Corporation - Arlington, VA - NAICS 541519 - due Nov 2, 2026 - No Set aside used</description>
+</item><item><title>FDIC - Salesforce Enterprise Agreement – Subscription Licenses/Maintenance</title><link>https://sam.gov/opp/09809b2087954c19aec0cbfb7accaf3b/view</link>
+<guid isPermaLink="false">09809b2087954c19aec0cbfb7accaf3b</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
+<description>Federal Deposit Insurance Corporation - Arlington, VA - NAICS 541519 - due Nov 23, 2026 - No Set aside used</description>
+</item><item><title>Pilot Training Transformation Device Support Services IV (PTT DSS IV)</title><link>https://sam.gov/opp/100ae61945aa4be4b7cefb18db86dc9c/view</link>
+<guid isPermaLink="false">100ae61945aa4be4b7cefb18db86dc9c</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 541519 - due Nov 25, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>Quantum Scalar Tape Library Support - BRAND NAME OR EQUAL (7/1/2026 - 6/31/2027) ELMT STANDALONE</title><link>https://sam.gov/opp/1d9d0b14464045729d402dc4fb349389/view</link>
+<guid isPermaLink="false">1d9d0b14464045729d402dc4fb349389</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
+<description>National Aeronautics and Space Administration - Location not listed - NAICS 541519 - due Nov 4, 2026</description>
+</item><item><title>MCC Software Development Recompete</title><link>https://sam.gov/opp/80139b1ed22d47c58d56cfee0a814376/view</link>
+<guid isPermaLink="false">80139b1ed22d47c58d56cfee0a814376</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
+<description>Millennium Challenge Corporation - Washington, DC - NAICS 541512 - due Oct 29, 2026 - No Set aside used</description>
+</item><item><title>Request for Information (RFI) for On-Premise Serve</title><link>https://sam.gov/opp/80ca6e7f11fa481cafc50f5d3b3cfa8e/view</link>
+<guid isPermaLink="false">80ca6e7f11fa481cafc50f5d3b3cfa8e</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
+<description>Social Security Administration - Location not listed - NAICS 541519 - due Nov 5, 2026</description>
+</item><item><title>Request for Information:  Air Operations Center (AOC) Common Air Defense Picture (CADP)</title><link>https://sam.gov/opp/85ecb7d4d351452ba26e7ec8ab80970b/view</link>
+<guid isPermaLink="false">85ecb7d4d351452ba26e7ec8ab80970b</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 541512 - due Nov 13, 2026</description>
+</item><item><title>SIPR LAN DROPS</title><link>https://sam.gov/opp/99374b795a4e4248bfc853d4b25b0cf9/view</link>
+<guid isPermaLink="false">99374b795a4e4248bfc853d4b25b0cf9</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
+<description>Department of Defense - FL - NAICS 541519 - due Nov 4, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>USHMM-RFI-2027-MSSP</title><link>https://sam.gov/opp/9c336b0a4433413d8aabf77191473e7d/view</link>
+<guid isPermaLink="false">9c336b0a4433413d8aabf77191473e7d</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
+<description>United States Holocaust Memorial Museum - Washington, DC - NAICS 541512 - due Oct 30, 2026 - No Set aside used</description>
+</item><item><title>Enterprise Inventory Management</title><link>https://sam.gov/opp/a5f6b56af8c94d168a081571b56e002f/view</link>
+<guid isPermaLink="false">a5f6b56af8c94d168a081571b56e002f</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
+<description>Department of Health and Human Services - Perry Point, MD - NAICS 541512 - due Nov 12, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>RFI: Agile Platform for Expeditionary C2 (APEX)</title><link>https://sam.gov/opp/a94d56ff8e2a453b92b2629cba0f62ec/view</link>
+<guid isPermaLink="false">a94d56ff8e2a453b92b2629cba0f62ec</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
+<description>Department of Defense - IL - NAICS 541512 - due Nov 30, 2026 - No Set aside used</description>
+</item><item><title>Cloud Based Data Management, Analytics, and Reporting Solution to Replace SAS</title><link>https://sam.gov/opp/cb6c7ad94b1d4411b8ddfb19a54ea751/view</link>
+<guid isPermaLink="false">cb6c7ad94b1d4411b8ddfb19a54ea751</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
+<description>Department of Justice - Location not listed - NAICS 541519 - due Nov 14, 2026 - No Set aside used</description>
+</item><item><title>TOTAL ENGINEERING AND INTEGRATION SERVICES  (TEIS) IV On-Ramp Opportunity</title><link>https://sam.gov/opp/cc27ec73e5cc440ab07820f6982e0f54/view</link>
+<guid isPermaLink="false">cc27ec73e5cc440ab07820f6982e0f54</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
+<description>Department of Defense - Fort Huachuca, AZ - NAICS 541512 - due Nov 25, 2026 - Small Business Set Aside - Partial</description>
+</item><item><title>FOMS SOFTWARE DEVELOPMENT</title><link>https://sam.gov/opp/34551fb14f374336ac3439876ac2d7b6/view</link>
 <guid isPermaLink="false">34551fb14f374336ac3439876ac2d7b6</guid>
 <pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
 <description>Department of Transportation - Oklahoma City, OK - NAICS 541511 - due Nov 6, 2026</description>
-</item><item><title>Defense Health Agency (DHA), Portfolio Acquisition Executive, Medical Digital Solutions (PAE MDS), Enterprise Intelligence &amp; Data Solutions (EIDS) Program Management Office (PMO), Data Exchange Services Operations, Modernization, and Development</title><link>https://sam.gov/opp/3a565775c32449d0820eb1e870ed51cb/view</link>
-<guid isPermaLink="false">3a565775c32449d0820eb1e870ed51cb</guid>
-<pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
-<description>Department of Defense - VA - NAICS 541512 - due Oct 28, 2026 - No Set aside used</description>
 </item><item><title>F-35 JPO Enterprise Data Science and Analytics Support</title><link>https://sam.gov/opp/722a347c18cf4e9bbf866b7ce8f43f22/view</link>
 <guid isPermaLink="false">722a347c18cf4e9bbf866b7ce8f43f22</guid>
 <pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
 <description>Department of Defense - Arlington, VA - NAICS 541511 - due Nov 10, 2026</description>
-</item><item><title>DA10--Nurse Call Software Maintenance - NWI</title><link>https://sam.gov/opp/7e0090c37024464ebceb11c52bb85ac5/view</link>
-<guid isPermaLink="false">7e0090c37024464ebceb11c52bb85ac5</guid>
-<pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
-<description>Department of Veterans Affairs - Omaha, NE - NAICS 541512 - due Oct 28, 2026</description>
 </item><item><title>RFI-FY27-SI Powered Communications and Video Intelligence</title><link>https://sam.gov/opp/7f3d12aeb84b4b909e73c08d13396e58/view</link>
 <guid isPermaLink="false">7f3d12aeb84b4b909e73c08d13396e58</guid>
 <pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
@@ -61,14 +105,6 @@
 <guid isPermaLink="false">47cdb834aa8d4bb29dc3bc41e510e07c</guid>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Veterans Affairs - Location not listed - NAICS 541511 - due Nov 10, 2026</description>
-</item><item><title>Defense Health Agency (DHA), Portfolio Acquisition Executive, Medical Digital Solutions (PAE MDS), Enterprise Intelligence &amp; Data Solutions (EIDS) Program Management Office (PMO), Data Exchange Services Operations, Modernization, and Development</title><link>https://sam.gov/opp/3546486e04724154ab860e6c817434c1/view</link>
-<guid isPermaLink="false">3546486e04724154ab860e6c817434c1</guid>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - VA - NAICS 541512 - due Oct 28, 2026 - No Set aside used</description>
-</item><item><title>Confluent Platform KRaft Basics Development &amp; Production Node Renewal FY26</title><link>https://sam.gov/opp/5c3f9459201040a08821f234a3d22ac4/view</link>
-<guid isPermaLink="false">5c3f9459201040a08821f234a3d22ac4</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-<description>National Aeronautics and Space Administration - Location not listed - NAICS 541519 - due Oct 28, 2026</description>
 </item><item><title>DA01--RFI Action Only    Healthcare Data Auditing Billing and Coding Optimization  Software</title><link>https://sam.gov/opp/650978c0876c4ea994b6976213322974/view</link>
 <guid isPermaLink="false">650978c0876c4ea994b6976213322974</guid>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
@@ -81,10 +117,6 @@
 <guid isPermaLink="false">8ca279cb327d4af6878c06928d440fc1</guid>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Defense - OK - NAICS 541519 - due Nov 9, 2026</description>
-</item><item><title>7G21--BNE Hillrom Voalte Nurse Call Requirement (New Work)</title><link>https://sam.gov/opp/8fcaf1759a754b96927d854211fdb273/view</link>
-<guid isPermaLink="false">8fcaf1759a754b96927d854211fdb273</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Oct 28, 2026</description>
 </item><item><title>U.S. Senate Wellbeing Application</title><link>https://sam.gov/opp/f28de4a9e5b949fdb8142557bd2f2527/view</link>
 <guid isPermaLink="false">f28de4a9e5b949fdb8142557bd2f2527</guid>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
@@ -129,10 +161,6 @@
 <guid isPermaLink="false">7aba6034a12643f1ac8ec5ed23bafcca</guid>
 <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Defense - Orlando, FL - NAICS 541512 - due Nov 22, 2026</description>
-</item><item><title>Intel Xeon W-3500 Series Tower Workstation</title><link>https://sam.gov/opp/94664d8dffa44cc6a09db763b5beb89a/view</link>
-<guid isPermaLink="false">94664d8dffa44cc6a09db763b5beb89a</guid>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - Washington, DC - NAICS 541512 - due Oct 28, 2026</description>
 </item><item><title>Border Patrol Technical Operations Center (BPTOC) Request for Information (RFI) 10142026</title><link>https://sam.gov/opp/e829069baed24353a2c30b1a23539884/view</link>
 <guid isPermaLink="false">e829069baed24353a2c30b1a23539884</guid>
 <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
@@ -173,32 +201,4 @@
 <guid isPermaLink="false">41d1683366a14ed384d5a28233312897</guid>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Commerce - MD - NAICS 541512 - due Oct 29, 2026</description>
-</item><item><title>DA01--VA-27-00015330 - Mission-Oriented Services for Application  Integration and Capabilities (MOSAIC)</title><link>https://sam.gov/opp/55e697dc5de74583be5f61d87d4e6731/view</link>
-<guid isPermaLink="false">55e697dc5de74583be5f61d87d4e6731</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 541512 - due Nov 4, 2026</description>
-</item><item><title>Digital Repository Platform and Physical Library Management System</title><link>https://sam.gov/opp/e75a0aa6a1ad4cd1966d5f88f093d546/view</link>
-<guid isPermaLink="false">e75a0aa6a1ad4cd1966d5f88f093d546</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Transportation - Washington, DC - NAICS 541512 - due Nov 16, 2026 - No Set aside used</description>
-</item><item><title>NEXODOSE DOSE MONITOR</title><link>https://sam.gov/opp/9dd5de2a688a48a98dc9a0b102e4812c/view</link>
-<guid isPermaLink="false">9dd5de2a688a48a98dc9a0b102e4812c</guid>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Veterans Affairs - Kansas City, MO - NAICS 541519 - due Oct 29, 2026</description>
-</item><item><title>FEMA Request for Information - Direct Housing Modernization Capabilities</title><link>https://sam.gov/opp/8c1636c4e92e464c9553d5004e47c780/view</link>
-<guid isPermaLink="false">8c1636c4e92e464c9553d5004e47c780</guid>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Homeland Security - Location not listed - NAICS 541512 - due Dec 18, 2026 - No Set aside used</description>
-</item><item><title>RFI for Enterprise Software-as-a-Service (SaaS) Electronic Discovery (eDiscovery) Platform Including Super Intelligence (SI) and Agentic SI Capabilities</title><link>https://sam.gov/opp/9b2565ce866e4780815eb62ff18b3e88/view</link>
-<guid isPermaLink="false">9b2565ce866e4780815eb62ff18b3e88</guid>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Homeland Security - Location not listed - NAICS 541512 - due Oct 28, 2026 - No Set aside used</description>
-</item><item><title>W50NH9-27-R-A006 (formally W50NH9-26-R-A019) Scalable Geospatial Intelligence (GEOINT) Architecture Information Technology (IT) Contractor Manpower Equivalent (CME) Support (Scalable GEOINT)</title><link>https://sam.gov/opp/9062cba08c704f95ad579bb986068703/view</link>
-<guid isPermaLink="false">9062cba08c704f95ad579bb986068703</guid>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - Location not listed - NAICS 541519 - due Nov 13, 2026</description>
-</item><item><title>DISA Cybersecurity Service Provider (CSSP) / J34 External Vulnerability Scans (EVS) and Web Vulnerability Scans (WVS)</title><link>https://sam.gov/opp/d6e90c863acc46a1a6105f080fe13efc/view</link>
-<guid isPermaLink="false">d6e90c863acc46a1a6105f080fe13efc</guid>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - Location not listed - NAICS 541511 - due Oct 30, 2026</description>
 </item></channel></rss>
