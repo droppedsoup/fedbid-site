@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal IT services bids</title><link>https://fedbid.us/trades/it_services.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Thu, 29 Oct 2026 11:00:06 +0000</lastBuildDate><item><title>IBM Mainframes and Maintenance for the FDIC</title><link>https://sam.gov/opp/02af5ad04b744d20afa98349db2c8635/view</link>
+<lastBuildDate>Fri, 30 Oct 2026 11:00:25 +0000</lastBuildDate><item><title>DA10--ORACLE Upgrade SaaS Subscriptions in Support of Veterans  Canteen Service (VCS)  (VA-27-00010417)</title><link>https://sam.gov/opp/0ddb7d794e474d36b60d9937667bf06c/view</link>
+<guid isPermaLink="false">0ddb7d794e474d36b60d9937667bf06c</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 541512 - due Nov 5, 2026</description>
+</item><item><title>Department of the Air Force Program Business and Enterprise Systems (BES) Commercial Solutions Opening (CSO)</title><link>https://sam.gov/opp/137ceb760c654cd6bf61d9debec892dc/view</link>
+<guid isPermaLink="false">137ceb760c654cd6bf61d9debec892dc</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Department of Defense - AL - NAICS 541519 - due see notice - No Set aside used</description>
+</item><item><title>DA10--Steris Software Connectivity</title><link>https://sam.gov/opp/1bacf8f1d7b44f468fc1b0573ca55478/view</link>
+<guid isPermaLink="false">1bacf8f1d7b44f468fc1b0573ca55478</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Department of Veterans Affairs - Fresno - NAICS 541519 - due Nov 9, 2026</description>
+</item><item><title>W50NH9-27-R-A006 (formally W50NH9-26-R-A019) Scalable Geospatial Intelligence (GEOINT) Architecture Information Technology (IT) Contractor Manpower Equivalent (CME) Support (Scalable GEOINT)</title><link>https://sam.gov/opp/60f9e6a373544f90a398c0b0873908cc/view</link>
+<guid isPermaLink="false">60f9e6a373544f90a398c0b0873908cc</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 541519 - due Nov 13, 2026</description>
+</item><item><title>IMT HDB Service IDIQ Contract</title><link>https://sam.gov/opp/73f1f0e3fd98489ab214a6075799a3f1/view</link>
+<guid isPermaLink="false">73f1f0e3fd98489ab214a6075799a3f1</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Department of the Interior - Location not listed - NAICS 541511 - due Nov 30, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>FOMS SOFTWARE DEVELOPMENT</title><link>https://sam.gov/opp/784aadcea29848c199e9ef8cd2d85939/view</link>
+<guid isPermaLink="false">784aadcea29848c199e9ef8cd2d85939</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Department of Transportation - Oklahoma City, OK - NAICS 541511 - due Nov 6, 2026</description>
+</item><item><title>Hand Held Terminals / SOTI Software Requirement</title><link>https://sam.gov/opp/9bfde64670ac41dfb6cf7b38f160ca3d/view</link>
+<guid isPermaLink="false">9bfde64670ac41dfb6cf7b38f160ca3d</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Department of Defense - Fort Lee, VA - NAICS 541519 - due Nov 9, 2026</description>
+</item><item><title>JFrog Artifactory Subscription Maintenance</title><link>https://sam.gov/opp/a79f6a3863444ed49f32c730ceed0f74/view</link>
+<guid isPermaLink="false">a79f6a3863444ed49f32c730ceed0f74</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Federal Deposit Insurance Corporation - Arlington, VA - NAICS 541519 - due Nov 5, 2026 - No Set aside used</description>
+</item><item><title>Simulator Common Architecture Requirements and Standards (SCARS)</title><link>https://sam.gov/opp/aba5c75a5ca941b1b176ccc5a8c51a4e/view</link>
+<guid isPermaLink="false">aba5c75a5ca941b1b176ccc5a8c51a4e</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Department of Defense - Dayton, OH - NAICS 541511 - due Dec 10, 2026 - No Set aside used</description>
+</item><item><title>Training Simulators &amp; Mobile Applications Development &amp; Maintenance for the USAF Expeditionary Operations School at Joint Base McGuire-Dix-Lakehurst NJ</title><link>https://sam.gov/opp/be1b41d880064dd1be99c1e611c2f563/view</link>
+<guid isPermaLink="false">be1b41d880064dd1be99c1e611c2f563</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Department of Defense - NJ - NAICS 541511 - due Nov 12, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>Cybersecurity Engineering and DoD Risk Management Framework (RMF) Support Services</title><link>https://sam.gov/opp/c8bd181ec7cd4f0f9577817ff1050fc4/view</link>
+<guid isPermaLink="false">c8bd181ec7cd4f0f9577817ff1050fc4</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Department of Defense - Aberdeen Proving Ground, MD - NAICS 541519 - due Nov 12, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
+</item><item><title>Solicitation for IDIQ Contract for Biology Testing of DM</title><link>https://sam.gov/opp/c95b9b34f3074485936d073e71114c1f/view</link>
+<guid isPermaLink="false">c95b9b34f3074485936d073e71114c1f</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 541519 - due Dec 1, 2026</description>
+</item><item><title>DA10--ORACLE Upgrade SaaS Subscriptions in Support of Veterans  Canteen Service (VCS)  (VA-27-00010417)</title><link>https://sam.gov/opp/d5807cd7766a4d8881af4ed2f6d838be/view</link>
+<guid isPermaLink="false">d5807cd7766a4d8881af4ed2f6d838be</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 541512 - due Nov 5, 2026</description>
+</item><item><title>IBM Mainframes and Maintenance for the FDIC</title><link>https://sam.gov/opp/02af5ad04b744d20afa98349db2c8635/view</link>
 <guid isPermaLink="false">02af5ad04b744d20afa98349db2c8635</guid>
 <pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
 <description>Federal Deposit Insurance Corporation - Arlington, VA - NAICS 541519 - due Nov 2, 2026 - No Set aside used</description>
@@ -17,10 +69,6 @@
 <guid isPermaLink="false">1d9d0b14464045729d402dc4fb349389</guid>
 <pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
 <description>National Aeronautics and Space Administration - Location not listed - NAICS 541519 - due Nov 4, 2026</description>
-</item><item><title>MCC Software Development Recompete</title><link>https://sam.gov/opp/80139b1ed22d47c58d56cfee0a814376/view</link>
-<guid isPermaLink="false">80139b1ed22d47c58d56cfee0a814376</guid>
-<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
-<description>Millennium Challenge Corporation - Washington, DC - NAICS 541512 - due Oct 29, 2026 - No Set aside used</description>
 </item><item><title>Request for Information (RFI) for On-Premise Serve</title><link>https://sam.gov/opp/80ca6e7f11fa481cafc50f5d3b3cfa8e/view</link>
 <guid isPermaLink="false">80ca6e7f11fa481cafc50f5d3b3cfa8e</guid>
 <pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
@@ -61,10 +109,6 @@
 <guid isPermaLink="false">722a347c18cf4e9bbf866b7ce8f43f22</guid>
 <pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
 <description>Department of Defense - Arlington, VA - NAICS 541511 - due Nov 10, 2026</description>
-</item><item><title>RFI-FY27-SI Powered Communications and Video Intelligence</title><link>https://sam.gov/opp/7f3d12aeb84b4b909e73c08d13396e58/view</link>
-<guid isPermaLink="false">7f3d12aeb84b4b909e73c08d13396e58</guid>
-<pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
-<description>Department of Homeland Security - Washington, DC - NAICS 541519 - due Oct 29, 2026 - No Set aside used</description>
 </item><item><title>NOAA NOS OCS Coast Pilot Production System- Maintenance and Support</title><link>https://sam.gov/opp/9a2889dccb1b46b08d36c9e9696c47aa/view</link>
 <guid isPermaLink="false">9a2889dccb1b46b08d36c9e9696c47aa</guid>
 <pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
@@ -81,10 +125,6 @@
 <guid isPermaLink="false">34f5c199765542849cee11334d7dcfd8</guid>
 <pubDate>Mon, 26 Oct 2026 16:46:22 +0000</pubDate>
 <description>Department of Defense - Location not listed - NAICS 541519 - due Nov 25, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>RFI-FY27-SI Powered Communications and Video Intelligence</title><link>https://sam.gov/opp/e1c94df6501a41a2b7b240c464b28f41/view</link>
-<guid isPermaLink="false">e1c94df6501a41a2b7b240c464b28f41</guid>
-<pubDate>Mon, 26 Oct 2026 16:46:22 +0000</pubDate>
-<description>Department of Homeland Security - Washington, DC - NAICS 541519 - due Oct 29, 2026 - No Set aside used</description>
 </item><item><title>Financial Management Software and Support Services</title><link>https://sam.gov/opp/75f4bcb2cc924f7f9378e6c2a020e3ee/view</link>
 <guid isPermaLink="false">75f4bcb2cc924f7f9378e6c2a020e3ee</guid>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
@@ -109,10 +149,6 @@
 <guid isPermaLink="false">650978c0876c4ea994b6976213322974</guid>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 6, 2026</description>
-</item><item><title>Support sustainment of Naval Weapon Systems and Platforms operating beyond their projected service lives.</title><link>https://sam.gov/opp/739c7baa0449427184e8df9f9cda8a73/view</link>
-<guid isPermaLink="false">739c7baa0449427184e8df9f9cda8a73</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - Philadelphia, PA - NAICS 541519 - due Oct 29, 2026 - No Set aside used</description>
 </item><item><title>76th SWEG - Tinker Air Force Base (Thunder CAMP)</title><link>https://sam.gov/opp/8ca279cb327d4af6878c06928d440fc1/view</link>
 <guid isPermaLink="false">8ca279cb327d4af6878c06928d440fc1</guid>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
@@ -137,14 +173,6 @@
 <guid isPermaLink="false">e03368a44e434cf0897a9953760a79ed</guid>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Homeland Security - Springfield, VA - NAICS 541512 - due Nov 2, 2026 - No Set aside used</description>
-</item><item><title>NIPR / SIPR drops Basic Purchase Agreement - LOCAL AREA NETWORK (LAN)/DEPLOYABLE LOCAL AREA NETWORK (DLAN) ENGINEERING AND INSTALLATION SUPPORT TO NETWORK ENTERPRISE CENTER (NEC)</title><link>https://sam.gov/opp/7261a4af85cf424e8fa62a10fbf66bc3/view</link>
-<guid isPermaLink="false">7261a4af85cf424e8fa62a10fbf66bc3</guid>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - Location not listed - NAICS 541519 - due Oct 29, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>Area of Interest (AOI) for User Activity Monitoring (UAM) Centralization Prototype Other Transaction (OT)</title><link>https://sam.gov/opp/793665be104448f38dab1c4225843ed2/view</link>
-<guid isPermaLink="false">793665be104448f38dab1c4225843ed2</guid>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - MD - NAICS 541519 - due Oct 29, 2026</description>
 </item><item><title>DA10--PowerScribe 360 and Upgrade - Three-Year IDIQ - PoP  11-11-26 to 11-10-29</title><link>https://sam.gov/opp/fa964c104ab741a78ab8bfc99a0c97b4/view</link>
 <guid isPermaLink="false">fa964c104ab741a78ab8bfc99a0c97b4</guid>
 <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
@@ -161,10 +189,6 @@
 <guid isPermaLink="false">7aba6034a12643f1ac8ec5ed23bafcca</guid>
 <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Defense - Orlando, FL - NAICS 541512 - due Nov 22, 2026</description>
-</item><item><title>Border Patrol Technical Operations Center (BPTOC) Request for Information (RFI) 10142026</title><link>https://sam.gov/opp/e829069baed24353a2c30b1a23539884/view</link>
-<guid isPermaLink="false">e829069baed24353a2c30b1a23539884</guid>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Homeland Security - Washington, DC - NAICS 541512 - due Oct 29, 2026 - No Set aside used</description>
 </item><item><title>PMX-281 IT Strategy, Software Modernization, and Digital Decision Intelligence Advisory Subscriptions</title><link>https://sam.gov/opp/123d8903b7054ab2a284fd9898c49e7f/view</link>
 <guid isPermaLink="false">123d8903b7054ab2a284fd9898c49e7f</guid>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
@@ -177,28 +201,4 @@
 <guid isPermaLink="false">abd64dde260448809b6d317ef34c22eb</guid>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Defense - Tampa, FL - NAICS 541519 - due Nov 5, 2026 - No Set aside used</description>
-</item><item><title>United States Army Western Hemisphere Command (USAWHC) G-6 Information Technology Service Management Western Command and Control System (WCCS)</title><link>https://sam.gov/opp/c302524e74894108a1f8f17f5c3e4929/view</link>
-<guid isPermaLink="false">c302524e74894108a1f8f17f5c3e4929</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - Fort Bragg, NC - NAICS 541519 - due Nov 2, 2026</description>
-</item><item><title>Strategy Execution Software, Installation and Training</title><link>https://sam.gov/opp/fd43c5ccbd2947b2b8dce87c83a69a90/view</link>
-<guid isPermaLink="false">fd43c5ccbd2947b2b8dce87c83a69a90</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - Location not listed - NAICS 541511 - due Oct 30, 2026</description>
-</item><item><title>Web Sustainment/Content Management/Cloud Hosting</title><link>https://sam.gov/opp/ff6a19adc2524071b94f75e0ed52892c/view</link>
-<guid isPermaLink="false">ff6a19adc2524071b94f75e0ed52892c</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - Alexandria, VA - NAICS 541511 - due Nov 3, 2026</description>
-</item><item><title>MCC Software Development Recompete</title><link>https://sam.gov/opp/eb0fceb8429d48a59dbe967937b9717e/view</link>
-<guid isPermaLink="false">eb0fceb8429d48a59dbe967937b9717e</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<description>Millennium Challenge Corporation - Washington, DC - NAICS 541512 - due Oct 29, 2026 - No Set aside used</description>
-</item><item><title>DA10--Circle CVI Software or equivalent in support of VA Portland  Healthcare System  Portland, Oregon</title><link>https://sam.gov/opp/58aea428940840cc98c9267021cfd816/view</link>
-<guid isPermaLink="false">58aea428940840cc98c9267021cfd816</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 3, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>NOAAPort Replacement Capabilities</title><link>https://sam.gov/opp/41d1683366a14ed384d5a28233312897/view</link>
-<guid isPermaLink="false">41d1683366a14ed384d5a28233312897</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Commerce - MD - NAICS 541512 - due Oct 29, 2026</description>
 </item></channel></rss>
