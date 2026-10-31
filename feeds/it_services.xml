@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal IT services bids</title><link>https://fedbid.us/trades/it_services.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Fri, 30 Oct 2026 11:00:25 +0000</lastBuildDate><item><title>DA10--ORACLE Upgrade SaaS Subscriptions in Support of Veterans  Canteen Service (VCS)  (VA-27-00010417)</title><link>https://sam.gov/opp/0ddb7d794e474d36b60d9937667bf06c/view</link>
+<lastBuildDate>Sat, 31 Oct 2026 11:00:08 +0000</lastBuildDate><item><title>DA01--VA-27-00011003 - Integrated OCDAO Support</title><link>https://sam.gov/opp/464db3ff062a4ae1be0cae19caf3249f/view</link>
+<guid isPermaLink="false">464db3ff062a4ae1be0cae19caf3249f</guid>
+<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 6, 2026</description>
+</item><item><title>Enterprise Next (ENX) RFI</title><link>https://sam.gov/opp/5b3c78d65f914f549c31a70faa1bfd73/view</link>
+<guid isPermaLink="false">5b3c78d65f914f549c31a70faa1bfd73</guid>
+<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
+<description>National Aeronautics and Space Administration - Greenbelt, MD - NAICS 541512 - due Nov 13, 2026</description>
+</item><item><title>F-35 JPO Enterprise Data Science and Analytics Support</title><link>https://sam.gov/opp/6e4396244ef04e2e95ef6831d7352649/view</link>
+<guid isPermaLink="false">6e4396244ef04e2e95ef6831d7352649</guid>
+<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
+<description>Department of Defense - Arlington, VA - NAICS 541511 - due Nov 10, 2026</description>
+</item><item><title>DA10--495 - PowerScribe 360 and Upgrade - Three-Year IDIQ - PoP  11-11-26 to 11-10-29</title><link>https://sam.gov/opp/9a454bef91b04bb5a634aedf47c76a79/view</link>
+<guid isPermaLink="false">9a454bef91b04bb5a634aedf47c76a79</guid>
+<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 5, 2026</description>
+</item><item><title>DLA-RFI-CT-2027-WBOS-MKTRES</title><link>https://sam.gov/opp/b44026882ad144629634ab6643a9f0d8/view</link>
+<guid isPermaLink="false">b44026882ad144629634ab6643a9f0d8</guid>
+<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
+<description>Department of Defense - PA - NAICS 541512 - due Nov 27, 2026</description>
+</item><item><title>Request for Information - Enterprise Learning Management System (LMS) of Record with a Learning Experience Platform (LXP)</title><link>https://sam.gov/opp/b63cfaf1ce0c4cee9332f05f2cf2bc4b/view</link>
+<guid isPermaLink="false">b63cfaf1ce0c4cee9332f05f2cf2bc4b</guid>
+<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
+<description>Department of Homeland Security - Springfield, VA - NAICS 541512 - due Nov 4, 2026 - No Set aside used</description>
+</item><item><title>DA10--Steris Software Connectivity</title><link>https://sam.gov/opp/d14f6e40ef8a4f10bb05eee2a4dbb767/view</link>
+<guid isPermaLink="false">d14f6e40ef8a4f10bb05eee2a4dbb767</guid>
+<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 9, 2026</description>
+</item><item><title>Amendment 0003 - Electronic Security System VIII Official Solicitation</title><link>https://sam.gov/opp/e54da85c19ae460ba50ae9f41fffd419/view</link>
+<guid isPermaLink="false">e54da85c19ae460ba50ae9f41fffd419</guid>
+<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 541512 - due Nov 9, 2026</description>
+</item><item><title>HID ID/Access Cards</title><link>https://sam.gov/opp/ecf63283c97e4d4f8047f3497c6801bc/view</link>
+<guid isPermaLink="false">ecf63283c97e4d4f8047f3497c6801bc</guid>
+<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
+<description>National Aeronautics and Space Administration - Hampton, VA - NAICS 541519 - due Nov 6, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>DA10--ORACLE Upgrade SaaS Subscriptions in Support of Veterans  Canteen Service (VCS)  (VA-27-00010417)</title><link>https://sam.gov/opp/0ddb7d794e474d36b60d9937667bf06c/view</link>
 <guid isPermaLink="false">0ddb7d794e474d36b60d9937667bf06c</guid>
 <pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
 <description>Department of Veterans Affairs - Location not listed - NAICS 541512 - due Nov 5, 2026</description>
@@ -81,10 +117,6 @@
 <guid isPermaLink="false">99374b795a4e4248bfc853d4b25b0cf9</guid>
 <pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
 <description>Department of Defense - FL - NAICS 541519 - due Nov 4, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>USHMM-RFI-2027-MSSP</title><link>https://sam.gov/opp/9c336b0a4433413d8aabf77191473e7d/view</link>
-<guid isPermaLink="false">9c336b0a4433413d8aabf77191473e7d</guid>
-<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
-<description>United States Holocaust Memorial Museum - Washington, DC - NAICS 541512 - due Oct 30, 2026 - No Set aside used</description>
 </item><item><title>Enterprise Inventory Management</title><link>https://sam.gov/opp/a5f6b56af8c94d168a081571b56e002f/view</link>
 <guid isPermaLink="false">a5f6b56af8c94d168a081571b56e002f</guid>
 <pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
@@ -113,10 +145,6 @@
 <guid isPermaLink="false">9a2889dccb1b46b08d36c9e9696c47aa</guid>
 <pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
 <description>Department of Commerce - Silver Spring, MD - NAICS 541511 - due Nov 6, 2026</description>
-</item><item><title>TOTAL ENGINEERING AND INTEGRATION SERVICES  (TEIS) IV On-Ramp Opportunity</title><link>https://sam.gov/opp/cbab4919e6bf4701a73a95605da7865b/view</link>
-<guid isPermaLink="false">cbab4919e6bf4701a73a95605da7865b</guid>
-<pubDate>Wed, 28 Oct 2026 10:00:19 +0000</pubDate>
-<description>Department of Defense - Fort Huachuca, AZ - NAICS 541512 - due Oct 30, 2026 - Small Business Set Aside - Partial</description>
 </item><item><title>FOIA - Case Management</title><link>https://sam.gov/opp/0449387aca1647a2b0cb5b1d7556a520/view</link>
 <guid isPermaLink="false">0449387aca1647a2b0cb5b1d7556a520</guid>
 <pubDate>Mon, 26 Oct 2026 16:46:22 +0000</pubDate>
@@ -125,10 +153,6 @@
 <guid isPermaLink="false">34f5c199765542849cee11334d7dcfd8</guid>
 <pubDate>Mon, 26 Oct 2026 16:46:22 +0000</pubDate>
 <description>Department of Defense - Location not listed - NAICS 541519 - due Nov 25, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>Financial Management Software and Support Services</title><link>https://sam.gov/opp/75f4bcb2cc924f7f9378e6c2a020e3ee/view</link>
-<guid isPermaLink="false">75f4bcb2cc924f7f9378e6c2a020e3ee</guid>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Commerce - Reston, VA - NAICS 541519 - due Oct 30, 2026</description>
 </item><item><title>Next Generation (NextGen) Passport Personalization Printers Support</title><link>https://sam.gov/opp/9a8b6e50d44f48a4bac9a236f972e94e/view</link>
 <guid isPermaLink="false">9a8b6e50d44f48a4bac9a236f972e94e</guid>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
@@ -173,32 +197,8 @@
 <guid isPermaLink="false">e03368a44e434cf0897a9953760a79ed</guid>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Homeland Security - Springfield, VA - NAICS 541512 - due Nov 2, 2026 - No Set aside used</description>
-</item><item><title>DA10--PowerScribe 360 and Upgrade - Three-Year IDIQ - PoP  11-11-26 to 11-10-29</title><link>https://sam.gov/opp/fa964c104ab741a78ab8bfc99a0c97b4/view</link>
-<guid isPermaLink="false">fa964c104ab741a78ab8bfc99a0c97b4</guid>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Oct 30, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
 </item><item><title>AF-PLM Capability Integration, Sustainment &amp; Licenses</title><link>https://sam.gov/opp/3cb88bbf1675458c8ef0dd0201ee46f1/view</link>
 <guid isPermaLink="false">3cb88bbf1675458c8ef0dd0201ee46f1</guid>
 <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Defense - Dayton, OH - NAICS 541511 - due Nov 5, 2026</description>
-</item><item><title>SILVAH software coding</title><link>https://sam.gov/opp/4924a9998b8444c3ace265513047df72/view</link>
-<guid isPermaLink="false">4924a9998b8444c3ace265513047df72</guid>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Agriculture - WV - NAICS 541511 - due Nov 11, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>UAS AND TRACR II INTERFACE CONTROL DOCUMENT (ICD) COMPLIANCE</title><link>https://sam.gov/opp/7aba6034a12643f1ac8ec5ed23bafcca/view</link>
-<guid isPermaLink="false">7aba6034a12643f1ac8ec5ed23bafcca</guid>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - Orlando, FL - NAICS 541512 - due Nov 22, 2026</description>
-</item><item><title>PMX-281 IT Strategy, Software Modernization, and Digital Decision Intelligence Advisory Subscriptions</title><link>https://sam.gov/opp/123d8903b7054ab2a284fd9898c49e7f/view</link>
-<guid isPermaLink="false">123d8903b7054ab2a284fd9898c49e7f</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - MD - NAICS 541519 - due Nov 4, 2026 - No Set aside used</description>
-</item><item><title>DA01--CORP: VCS Standalone IT Support Contract  - RFI  (VA-27-00012857)</title><link>https://sam.gov/opp/3963d4cf1748410b93898ef07e436380/view</link>
-<guid isPermaLink="false">3963d4cf1748410b93898ef07e436380</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 9, 2026</description>
-</item><item><title>SOCOM Integrated Platform as a Service</title><link>https://sam.gov/opp/abd64dde260448809b6d317ef34c22eb/view</link>
-<guid isPermaLink="false">abd64dde260448809b6d317ef34c22eb</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - Tampa, FL - NAICS 541519 - due Nov 5, 2026 - No Set aside used</description>
 </item></channel></rss>
