@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal IT services bids</title><link>https://fedbid.us/trades/it_services.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Mon, 02 Nov 2026 12:00:12 +0000</lastBuildDate><item><title>DA01--VA-27-00011003 - Integrated OCDAO Support</title><link>https://sam.gov/opp/464db3ff062a4ae1be0cae19caf3249f/view</link>
+<lastBuildDate>Tue, 03 Nov 2026 12:00:15 +0000</lastBuildDate><item><title>Sources Sought - Cross-Domain Capabilities</title><link>https://sam.gov/opp/1715a21df9d348ce9a74b8e09054e989/view</link>
+<guid isPermaLink="false">1715a21df9d348ce9a74b8e09054e989</guid>
+<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Defense - MD - NAICS 541512 - due Nov 20, 2026</description>
+</item><item><title>Fluke Met/Cal and Met/Team Software and Hardware System Upgrade</title><link>https://sam.gov/opp/6ee5969e8698421493a0399706c35621/view</link>
+<guid isPermaLink="false">6ee5969e8698421493a0399706c35621</guid>
+<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 541519 - due Nov 17, 2026</description>
+</item><item><title>DYNATRACE SUBSCRIPTION MAINTENANCE</title><link>https://sam.gov/opp/b90caa72965b457eaef14c29d056f219/view</link>
+<guid isPermaLink="false">b90caa72965b457eaef14c29d056f219</guid>
+<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
+<description>Federal Deposit Insurance Corporation - Arlington, VA - NAICS 541519 - due Nov 13, 2026 - No Set aside used</description>
+</item><item><title>Department of the Air Force Business and Enterprise Systems (BES) Commercial Solutions Opening (CSO)</title><link>https://sam.gov/opp/fdedccd1d1aa4625881cd9f2ef3694ca/view</link>
+<guid isPermaLink="false">fdedccd1d1aa4625881cd9f2ef3694ca</guid>
+<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Defense - AL - NAICS 541519 - due see notice - No Set aside used</description>
+</item><item><title>DA01--VA-27-00011003 - Integrated OCDAO Support</title><link>https://sam.gov/opp/464db3ff062a4ae1be0cae19caf3249f/view</link>
 <guid isPermaLink="false">464db3ff062a4ae1be0cae19caf3249f</guid>
 <pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
 <description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 6, 2026</description>
@@ -89,10 +105,6 @@
 <guid isPermaLink="false">d5807cd7766a4d8881af4ed2f6d838be</guid>
 <pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
 <description>Department of Veterans Affairs - Location not listed - NAICS 541512 - due Nov 5, 2026</description>
-</item><item><title>IBM Mainframes and Maintenance for the FDIC</title><link>https://sam.gov/opp/02af5ad04b744d20afa98349db2c8635/view</link>
-<guid isPermaLink="false">02af5ad04b744d20afa98349db2c8635</guid>
-<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
-<description>Federal Deposit Insurance Corporation - Arlington, VA - NAICS 541519 - due Nov 2, 2026 - No Set aside used</description>
 </item><item><title>FDIC - Salesforce Enterprise Agreement – Subscription Licenses/Maintenance</title><link>https://sam.gov/opp/09809b2087954c19aec0cbfb7accaf3b/view</link>
 <guid isPermaLink="false">09809b2087954c19aec0cbfb7accaf3b</guid>
 <pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
@@ -157,14 +169,6 @@
 <guid isPermaLink="false">9a8b6e50d44f48a4bac9a236f972e94e</guid>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of State - Washington, DC - NAICS 541519 - due Nov 30, 2026</description>
-</item><item><title>DA10--New Action: TIC Application Firewall Maintenance Renewal  (VA-27-00009587)</title><link>https://sam.gov/opp/a577282552584333bb3839c486e39c82/view</link>
-<guid isPermaLink="false">a577282552584333bb3839c486e39c82</guid>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 2, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
-</item><item><title>Systems Engineering Request for Information</title><link>https://sam.gov/opp/b02e94772d674a89ab5e1e954dae9d3f/view</link>
-<guid isPermaLink="false">b02e94772d674a89ab5e1e954dae9d3f</guid>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Defense - DC - NAICS 541519 - due Nov 2, 2026 - No Set aside used</description>
 </item><item><title>DA10--RFI VHA Radiology and Cardiology Enterprise Imaging</title><link>https://sam.gov/opp/47cdb834aa8d4bb29dc3bc41e510e07c/view</link>
 <guid isPermaLink="false">47cdb834aa8d4bb29dc3bc41e510e07c</guid>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
@@ -193,10 +197,6 @@
 <guid isPermaLink="false">cd5fac842661418eac9eab2b30c7b0ea</guid>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
 <description>Department of Defense - Location not listed - NAICS 541512 - due Nov 9, 2026</description>
-</item><item><title>Request for Information - Enterprise Learning Management System (LMS) of Record with a Learning Experience Platform (LXP)</title><link>https://sam.gov/opp/e03368a44e434cf0897a9953760a79ed/view</link>
-<guid isPermaLink="false">e03368a44e434cf0897a9953760a79ed</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-<description>Department of Homeland Security - Springfield, VA - NAICS 541512 - due Nov 2, 2026 - No Set aside used</description>
 </item><item><title>AF-PLM Capability Integration, Sustainment &amp; Licenses</title><link>https://sam.gov/opp/3cb88bbf1675458c8ef0dd0201ee46f1/view</link>
 <guid isPermaLink="false">3cb88bbf1675458c8ef0dd0201ee46f1</guid>
 <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
