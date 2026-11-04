@@ -1,7 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal bids (FedBid.us)</title><link>https://fedbid.us/bids.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Tue, 03 Nov 2026 12:00:15 +0000</lastBuildDate><item><title>INSCOM G-2 Access Control and Security Escorts (ACES)</title><link>https://sam.gov/opp/4f53202e2ec94470b19966fdb5b46bdf/view</link>
+<lastBuildDate>Wed, 04 Nov 2026 12:00:23 +0000</lastBuildDate><item><title>U.S. Mission Burundi Local Guard Program</title><link>https://sam.gov/opp/70f6d2d0760b4f3b9efa8bb77d197d6d/view</link>
+<guid isPermaLink="false">70f6d2d0760b4f3b9efa8bb77d197d6d</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of State - Location not listed - NAICS 561612 - due Nov 27, 2026 - No Set aside used</description>
+</item><item><title>ANF Duchesne Bunkhouse AC Replacement</title><link>https://sam.gov/opp/23694fe3f487435eb9f4ba29fd4ca8cc/view</link>
+<guid isPermaLink="false">23694fe3f487435eb9f4ba29fd4ca8cc</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Agriculture - UT - NAICS 238220 - due Nov 13, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>Mechanical Construction Services IDIQ - MMAC</title><link>https://sam.gov/opp/4c87654ce2cb4aa9b5b2c54ad7729cc9/view</link>
+<guid isPermaLink="false">4c87654ce2cb4aa9b5b2c54ad7729cc9</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Transportation - Oklahoma City, OK - NAICS 238220 - due Nov 18, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>Z--EROS Removal and replacement of chilled and conden</title><link>https://sam.gov/opp/aeef13a6ce7548b2a2272e3911f3c2a4/view</link>
+<guid isPermaLink="false">aeef13a6ce7548b2a2272e3911f3c2a4</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of the Interior - Location not listed - NAICS 238220 - due Nov 9, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>J043--Damen Building Vacuum Condensate System Rebuild</title><link>https://sam.gov/opp/c0ce43b1f0a7410a868de05020759278/view</link>
+<guid isPermaLink="false">c0ce43b1f0a7410a868de05020759278</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 238220 - due Nov 13, 2026</description>
+</item><item><title>Replacement of 10 Ton HVAC Unit, Bldg.11, PR ANG</title><link>https://sam.gov/opp/c1fe147340c741bc81c2aa91c5e78cfc/view</link>
+<guid isPermaLink="false">c1fe147340c741bc81c2aa91c5e78cfc</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Defense - Carolina, PR - NAICS 238220 - due Nov 12, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>L7WC02_ B670 Paint Booth and HVAC</title><link>https://sam.gov/opp/de53e84c7e614d20954568bc1568e4a0/view</link>
+<guid isPermaLink="false">de53e84c7e614d20954568bc1568e4a0</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Defense - Warner Robins, GA - NAICS 238220 - due Nov 12, 2026 - No Set aside used</description>
+</item><item><title>MARKET SURVEY NOTICE for new ATCT Project at (FLL) Fort Lauderdale- Hollywood International Airport</title><link>https://sam.gov/opp/05a854954f9c4ec19fcd4408e7c0e07a/view</link>
+<guid isPermaLink="false">05a854954f9c4ec19fcd4408e7c0e07a</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Transportation - FL - NAICS 236220 - due Nov 10, 2026 - No Set aside used</description>
+</item><item><title>Repair Building Systems (Peoria, IL)</title><link>https://sam.gov/opp/0a269bf301594cce8ea15530526bce89/view</link>
+<guid isPermaLink="false">0a269bf301594cce8ea15530526bce89</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Agriculture - Peoria, IL - NAICS 236220 - due Dec 2, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>Z1DA--36C25227B0026 Remodel ENT Procedure Rooms  CON 537-19-109</title><link>https://sam.gov/opp/14da32519d2f4187b272992532c7cc55/view</link>
+<guid isPermaLink="false">14da32519d2f4187b272992532c7cc55</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Veterans Affairs - Chicago, IL - NAICS 236220 - due Nov 24, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
+</item><item><title>N4008526R0228 DESIGN-BUILD (DB), REPAIR OTC DORM KING HALL BLDG 291, NAVAL STATION NEWPORT RI, NEWPORT RHODE ISLAND</title><link>https://sam.gov/opp/158934b357694b7cae8b2378673c8c4e/view</link>
+<guid isPermaLink="false">158934b357694b7cae8b2378673c8c4e</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 236220 - due Nov 5, 2026</description>
+</item><item><title>Wilson Hall Floor 16 Electric and Elevator Machine Rooms Fire Rating and Mechanical Upgrade</title><link>https://sam.gov/opp/18a86d7d75cc4237b498eba70d56eb9e/view</link>
+<guid isPermaLink="false">18a86d7d75cc4237b498eba70d56eb9e</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Energy - IL - NAICS 236220 - due Nov 17, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>RFP 7-B164-P-00002-00 (RR GC BPA FY27)</title><link>https://sam.gov/opp/193931c0656240478151144abe626ddf/view</link>
+<guid isPermaLink="false">193931c0656240478151144abe626ddf</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Energy - Lemont, IL - NAICS 236220 - due Nov 11, 2026</description>
+</item><item><title>General Contractor for the Seismic Retrofit Project at the Clemente Ruiz Nazario U.S. Courthouse, San Juan, Puerto Rico</title><link>https://sam.gov/opp/1c20c94b36e64f108a3e88a961087272/view</link>
+<guid isPermaLink="false">1c20c94b36e64f108a3e88a961087272</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>General Services Administration - San Juan, PR - NAICS 236220 - due Dec 15, 2026 - No Set aside used</description>
+</item><item><title>Building 262 Renovation, FLETC Glynco, Georgia</title><link>https://sam.gov/opp/242eb9e53e47463590e74bdf97ac1b35/view</link>
+<guid isPermaLink="false">242eb9e53e47463590e74bdf97ac1b35</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Homeland Security - GA - NAICS 236220 - due Nov 18, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>Amendment 0005 to Extend Proposal Due Date &amp; other official information</title><link>https://sam.gov/opp/2ab56ac91e91420a8f96bccf98c8d6c9/view</link>
+<guid isPermaLink="false">2ab56ac91e91420a8f96bccf98c8d6c9</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Veterans Affairs - Boise, ID - NAICS 236220 - due Nov 18, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
+</item><item><title>Design-Build Renovation of Building 164, Outdoor Recreation Center, Homestead Air Reserve Base, Florida</title><link>https://sam.gov/opp/63da7e72b72c463a9478aec86e716280/view</link>
+<guid isPermaLink="false">63da7e72b72c463a9478aec86e716280</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Defense - Homestead, FL - NAICS 236220 - due Nov 23, 2026</description>
+</item><item><title>Remove and Replace Carpet-Rooms 127 and 137 at the United States Customs House Denver CO</title><link>https://sam.gov/opp/67f281c3a6654dbbaf135065e5b01163/view</link>
+<guid isPermaLink="false">67f281c3a6654dbbaf135065e5b01163</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>General Services Administration - Denver, CO - NAICS 236220 - due Nov 10, 2026 - SBA Certified Women-Owned Small Business (WOSB) Program Set-Aside (FAR 19.15)</description>
+</item><item><title>Synopsis: New Land Port of Entry Highgate Springs, VT</title><link>https://sam.gov/opp/7d61264babe744f09a7c1ef510be2c48/view</link>
+<guid isPermaLink="false">7d61264babe744f09a7c1ef510be2c48</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>General Services Administration - Highgate Springs, VT - NAICS 236220 - due see notice - No Set aside used</description>
+</item><item><title>Y1DA--561-26-103 Upgrade Electrical and Plumbing in Building 18B</title><link>https://sam.gov/opp/8bf2fa28df8340b6b09914f23261dbf3/view</link>
+<guid isPermaLink="false">8bf2fa28df8340b6b09914f23261dbf3</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Veterans Affairs - East Orange, NJ - NAICS 236220 - due Nov 30, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
+</item><item><title>CONSTRUCTION Indefinite-Delivery Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC)</title><link>https://sam.gov/opp/8c1a79a9ec614b89ac56a730fd6880e1/view</link>
+<guid isPermaLink="false">8c1a79a9ec614b89ac56a730fd6880e1</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Defense - ND - NAICS 236220 - due Dec 3, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>MORA-ADM NEW CAMP MUIR GUIDE BLDGS</title><link>https://sam.gov/opp/8dcddb8e428041a985fc22a8903ad93a/view</link>
+<guid isPermaLink="false">8dcddb8e428041a985fc22a8903ad93a</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of the Interior - Location not listed - NAICS 236220 - due Dec 10, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>Z2DA--561-26-104 Repair Operating Room (OR) &amp; Bathroom Leaks</title><link>https://sam.gov/opp/9e748b782c094b008a6dd9c15502fba0/view</link>
+<guid isPermaLink="false">9e748b782c094b008a6dd9c15502fba0</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 236220 - due Nov 13, 2026</description>
+</item><item><title>DFC Bldg. 56 Clean Room - Design/Build</title><link>https://sam.gov/opp/beb85d56d7d04bf6ae33797f9597c423/view</link>
+<guid isPermaLink="false">beb85d56d7d04bf6ae33797f9597c423</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>General Services Administration - Lakewood, CO - NAICS 236220 - due Nov 17, 2026</description>
+</item><item><title>DHS HSI Schwartz 2nd Floor Carpet Replacement</title><link>https://sam.gov/opp/c40dbc1f3f8d405bb1db80d80e4c50cb/view</link>
+<guid isPermaLink="false">c40dbc1f3f8d405bb1db80d80e4c50cb</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>General Services Administration - San Diego, CA - NAICS 236220 - due Dec 4, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>SABER V Hill AFB</title><link>https://sam.gov/opp/c88fa30f9b3249b9985265b9939e24aa/view</link>
+<guid isPermaLink="false">c88fa30f9b3249b9985265b9939e24aa</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 236220 - due Nov 10, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
+</item><item><title>JB Charleston Multiple Award Construction Contract</title><link>https://sam.gov/opp/c91fc164637d4d05b121f44418628905/view</link>
+<guid isPermaLink="false">c91fc164637d4d05b121f44418628905</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Defense - SC - NAICS 236220 - due Nov 5, 2026</description>
+</item><item><title>Cove Day School Replacement &amp; Quarters Constructio</title><link>https://sam.gov/opp/cd0a2a73379c4bbd83962f593e60450b/view</link>
+<guid isPermaLink="false">cd0a2a73379c4bbd83962f593e60450b</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of the Interior - Cove, AZ - NAICS 236220 - due Dec 3, 2026 - Indian Small Business Economic Enterprise</description>
+</item><item><title>657-24-111JC FCA-Renovate Ambassador Suite &amp; Main Lobby B1</title><link>https://sam.gov/opp/eba22434589743d099a3ff2e9ac739c0/view</link>
+<guid isPermaLink="false">eba22434589743d099a3ff2e9ac739c0</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Veterans Affairs - Saint Louis, MO - NAICS 236220 - due Nov 12, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
+</item><item><title>PN 110205 - SOS Hangar Renovation - Progressive-Design-Build OT</title><link>https://sam.gov/opp/f1d3cef41d444fd088e9b61eaa04d9c4/view</link>
+<guid isPermaLink="false">f1d3cef41d444fd088e9b61eaa04d9c4</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 236220 - due Nov 11, 2026</description>
+</item><item><title>Z1DA--Renovate to Install PET Scanner</title><link>https://sam.gov/opp/fbae21f389ba40a88ba2eaf67efac6d1/view</link>
+<guid isPermaLink="false">fbae21f389ba40a88ba2eaf67efac6d1</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Veterans Affairs - Salem - NAICS 236220 - due Nov 5, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
+</item><item><title>MN-FWS TAMARAC VC PARKING SEAL COAT</title><link>https://sam.gov/opp/fe6727b9572b4b8ba81af50670fbc5df/view</link>
+<guid isPermaLink="false">fe6727b9572b4b8ba81af50670fbc5df</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of the Interior - Location not listed - NAICS 236220 - due Nov 23, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>PMX-281 IT Strategy, Software Modernization, and Digital Decision Intelligence Advisory Subscriptions</title><link>https://sam.gov/opp/11b9ee3e752e48bf8ee9355e6ccff10f/view</link>
+<guid isPermaLink="false">11b9ee3e752e48bf8ee9355e6ccff10f</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Defense - MD - NAICS 541519 - due Nov 11, 2026 - No Set aside used</description>
+</item><item><title>DA01--Light Electronic Action Framework Platform Support Services  (VA-27-00002271)</title><link>https://sam.gov/opp/2c63335327a1411f84aae8f06adb5b86/view</link>
+<guid isPermaLink="false">2c63335327a1411f84aae8f06adb5b86</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 541512 - due see notice</description>
+</item><item><title>Sources Sought Notice: United States Naval Academy Military Service Academy Portal Development and Sustainment</title><link>https://sam.gov/opp/2e6a950fbb304aaa97f09af3580dfefa/view</link>
+<guid isPermaLink="false">2e6a950fbb304aaa97f09af3580dfefa</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Defense - Annapolis, MD - NAICS 541519 - due Nov 6, 2026 - No Set aside used</description>
+</item><item><title>NCTAMS PAC CAIRS Support</title><link>https://sam.gov/opp/2fd941feb30343f680b0c46280f28edd/view</link>
+<guid isPermaLink="false">2fd941feb30343f680b0c46280f28edd</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 541519 - due Nov 9, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>6515--KitCheck RFID Tag System for Crash Carts Medication Scanning</title><link>https://sam.gov/opp/4fb5f39350c848309e01afe119bb2932/view</link>
+<guid isPermaLink="false">4fb5f39350c848309e01afe119bb2932</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Veterans Affairs - Pittsburgh - NAICS 541519 - due Nov 17, 2026</description>
+</item><item><title>AI-Enabled Support</title><link>https://sam.gov/opp/7d0e10dda09149abb1d42db11ec53fcc/view</link>
+<guid isPermaLink="false">7d0e10dda09149abb1d42db11ec53fcc</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Defense - Raf Lakenheath, GB-SFK - NAICS 541511 - due Dec 1, 2026</description>
+</item><item><title>Request for Information - Enterprise Learning Management System (LMS) of Record with a Learning Experience Platform (LXP)</title><link>https://sam.gov/opp/904745e4caba4f4e9ce04a3a98b7af56/view</link>
+<guid isPermaLink="false">904745e4caba4f4e9ce04a3a98b7af56</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Homeland Security - Springfield, VA - NAICS 541512 - due Nov 6, 2026 - No Set aside used</description>
+</item><item><title>Annual Renewal for SonarSource</title><link>https://sam.gov/opp/9aa893a41caa4de6aecc20b9d289c0c6/view</link>
+<guid isPermaLink="false">9aa893a41caa4de6aecc20b9d289c0c6</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Social Security Administration - Location not listed - NAICS 541519 - due Nov 5, 2026 - No Set aside used</description>
+</item><item><title>Security Equipment for the United States Naval Academy</title><link>https://sam.gov/opp/a00db012b9bd49f69efdda33d728d6ae/view</link>
+<guid isPermaLink="false">a00db012b9bd49f69efdda33d728d6ae</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Defense - MD - NAICS 541519 - due Nov 12, 2026 - No Set aside used</description>
+</item><item><title>NCSS - Onboarding NHLBI to NEI OpenSpecimen</title><link>https://sam.gov/opp/b8d06282ff634e3ba9796ee62d3f0363/view</link>
+<guid isPermaLink="false">b8d06282ff634e3ba9796ee62d3f0363</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>Department of Health and Human Services - Location not listed - NAICS 541511 - due Nov 17, 2026</description>
+</item><item><title>Enterprise Next (ENX) Draft RFP</title><link>https://sam.gov/opp/ec03308fb0ff457e9ac4c0418ed3b963/view</link>
+<guid isPermaLink="false">ec03308fb0ff457e9ac4c0418ed3b963</guid>
+<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
+<description>National Aeronautics and Space Administration - Greenbelt, MD - NAICS 541512 - due Nov 13, 2026</description>
+</item><item><title>INSCOM G-2 Access Control and Security Escorts (ACES)</title><link>https://sam.gov/opp/4f53202e2ec94470b19966fdb5b46bdf/view</link>
 <guid isPermaLink="false">4f53202e2ec94470b19966fdb5b46bdf</guid>
 <pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
 <description>Department of Defense - Fort Belvoir, VA - NAICS 561612 - due Nov 18, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
@@ -29,176 +201,4 @@
 <guid isPermaLink="false">a15493834fb74a78a930005cb6294732</guid>
 <pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
 <description>Department of Veterans Affairs - Rome, NY - NAICS 238220 - due Dec 2, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>HVAC Replacement - MI</title><link>https://sam.gov/opp/a6bc63e61b2f44cbbd29f86c9414c4ac/view</link>
-<guid isPermaLink="false">a6bc63e61b2f44cbbd29f86c9414c4ac</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of the Interior - Location not listed - NAICS 238220 - due Nov 17, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>CGC SCIOTO WATER MIST FIRE PROTECTION SYSTEM</title><link>https://sam.gov/opp/eb7298e854bb49b99ce1bc5155df9888/view</link>
-<guid isPermaLink="false">eb7298e854bb49b99ce1bc5155df9888</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Homeland Security - Keokuk, IA - NAICS 238220 - due Nov 9, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>Renovate Building 1203-DOAS/AHU and Fire Suppression Water System, March Air Reserve Base, California</title><link>https://sam.gov/opp/1711cf832a3245baa4c5410b8165b514/view</link>
-<guid isPermaLink="false">1711cf832a3245baa4c5410b8165b514</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - CA - NAICS 236220 - due Nov 15, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>Y--GAOA RAWLINS BARRACKS REPLACEMENT, WY</title><link>https://sam.gov/opp/31ed25d16c1241bd9ca89f02799f03a7/view</link>
-<guid isPermaLink="false">31ed25d16c1241bd9ca89f02799f03a7</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of the Interior - Rawlins, WY - NAICS 236220 - due Nov 10, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>MARKET SURVEY NOTICE for new ATCT Project at (FLL) Fort Lauderdale- Hollywood International Airport</title><link>https://sam.gov/opp/3b83a01eba8f4101a99d70f9527f5a02/view</link>
-<guid isPermaLink="false">3b83a01eba8f4101a99d70f9527f5a02</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Transportation - FL - NAICS 236220 - due Nov 5, 2026 - No Set aside used</description>
-</item><item><title>POV PARKING LOT EXPANSION NY060 SCHENECTADY USARC</title><link>https://sam.gov/opp/61453a7671364fbcb2c205af916d074d/view</link>
-<guid isPermaLink="false">61453a7671364fbcb2c205af916d074d</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - Location not listed - NAICS 236220 - due Nov 16, 2026</description>
-</item><item><title>SABER V Hill AFB</title><link>https://sam.gov/opp/63b1fae56afd4d1f9e1f44ca1901ef54/view</link>
-<guid isPermaLink="false">63b1fae56afd4d1f9e1f44ca1901ef54</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - Location not listed - NAICS 236220 - due Nov 5, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
-</item><item><title>Design and construction of 5,964 SF addition to an existing aircraft paint shop and installation of a media blast booth</title><link>https://sam.gov/opp/6868538077e64ad887d6578a3a8a9fd5/view</link>
-<guid isPermaLink="false">6868538077e64ad887d6578a3a8a9fd5</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - WA - NAICS 236220 - due Nov 18, 2026</description>
-</item><item><title>Progressive Design Build - 26,000 SF hangar at Lakehurst on Joint Base McGuire-Dix-Lakehurst (JBMDL).</title><link>https://sam.gov/opp/6bb8c69ad03e4f09bcb32ea12f3a22d9/view</link>
-<guid isPermaLink="false">6bb8c69ad03e4f09bcb32ea12f3a22d9</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - NJ - NAICS 236220 - due Nov 12, 2026</description>
-</item><item><title>JB Charleston Multiple Award Construction Contract</title><link>https://sam.gov/opp/6ebc5b29d866450084f129480c31ef4a/view</link>
-<guid isPermaLink="false">6ebc5b29d866450084f129480c31ef4a</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - SC - NAICS 236220 - due Nov 5, 2026</description>
-</item><item><title>FCI Three Rivers-Replace Generators, Transformers, and Electrical Infrastructure</title><link>https://sam.gov/opp/84168937336d4a79929b3f9167a3b9e4/view</link>
-<guid isPermaLink="false">84168937336d4a79929b3f9167a3b9e4</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Justice - Three Rivers, TX - NAICS 236220 - due Nov 30, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
-</item><item><title>Robins RAPID Construction OTA Umbrella Notice</title><link>https://sam.gov/opp/8bd0389eea4c4ab4a02cccae6c55d91c/view</link>
-<guid isPermaLink="false">8bd0389eea4c4ab4a02cccae6c55d91c</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - Warner Robins, GA - NAICS 236220 - due Dec 1, 2027 - No Set aside used</description>
-</item><item><title>Design Build Markey DC0094ZZ Multi Floor Interior Finish Improvements</title><link>https://sam.gov/opp/94b7e3c8a0774f0e860f4ec2c14717bc/view</link>
-<guid isPermaLink="false">94b7e3c8a0774f0e860f4ec2c14717bc</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>General Services Administration - Washington, DC - NAICS 236220 - due Nov 16, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
-</item><item><title>Z2DA--657-24-102JC - Prepare Site for New PET/CT, Room A011D</title><link>https://sam.gov/opp/9a1baee2c76a4817ae09396bb9d376af/view</link>
-<guid isPermaLink="false">9a1baee2c76a4817ae09396bb9d376af</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 236220 - due Nov 10, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
-</item><item><title>Repair Auto Maintenance Facility Bldg 575 (230040)</title><link>https://sam.gov/opp/a0f23e2b3b074ef1b6258b849b9cd4f3/view</link>
-<guid isPermaLink="false">a0f23e2b3b074ef1b6258b849b9cd4f3</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - Camp Lejeune, NC - NAICS 236220 - due Nov 23, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>Design-Build Maintenance and Repair Army Reserve (MRAR) of Equipment Concentration Site (ECS), B-56767, at North Fort Hood, TX</title><link>https://sam.gov/opp/a5e6930a75bb411186e4300ebd7aef81/view</link>
-<guid isPermaLink="false">a5e6930a75bb411186e4300ebd7aef81</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - Gatesville, TX - NAICS 236220 - due Nov 20, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>Y1DA--667-22-700 | EHRM Infras Upgrades | Shreveport, LA |</title><link>https://sam.gov/opp/a71c8650f2c84713ab50da1e717f1f87/view</link>
-<guid isPermaLink="false">a71c8650f2c84713ab50da1e717f1f87</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Veterans Affairs - Shreveport, LA - NAICS 236220 - due Nov 12, 2026</description>
-</item><item><title>WWYK250063 - INSTALL REACT VII FACILITY, B9001, POST V19</title><link>https://sam.gov/opp/aee94c1c68df420f971df6923339ea87/view</link>
-<guid isPermaLink="false">aee94c1c68df420f971df6923339ea87</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - OK - NAICS 236220 - due Nov 23, 2026 - SBA Certified Women-Owned Small Business (WOSB) Program Set-Aside (FAR 19.15)</description>
-</item><item><title>Z1LZ--Re-slurry and Re-stripe Bldg. 88 and 98 Parking Lots</title><link>https://sam.gov/opp/b62a3f5fc74a4c139b0fa92aa52b429e/view</link>
-<guid isPermaLink="false">b62a3f5fc74a4c139b0fa92aa52b429e</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 236220 - due Nov 6, 2026</description>
-</item><item><title>N4008527R0039 Design-Bid-Build (DBB) P-200, Aircraft Maintenance Hangar, Marine Corps Air Station (MCAS) Cherry Point, North Carolina</title><link>https://sam.gov/opp/bcc22f885c4049fdadf2333ec4237992/view</link>
-<guid isPermaLink="false">bcc22f885c4049fdadf2333ec4237992</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - Cherry Point, NC - NAICS 236220 - due Nov 16, 2026</description>
-</item><item><title>Y1DA--NRM-CONST 528-CSI-102 Urology Equipment Site Prep | FY27 NRM</title><link>https://sam.gov/opp/c1efbd8d0c7f40f4b6a1212f6b090641/view</link>
-<guid isPermaLink="false">c1efbd8d0c7f40f4b6a1212f6b090641</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Veterans Affairs - Buffalo, NY - NAICS 236220 - due Dec 7, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
-</item><item><title>iHouse Apartment Construction</title><link>https://sam.gov/opp/cb9efa71aa1e491390ba0bf7486c3e7c/view</link>
-<guid isPermaLink="false">cb9efa71aa1e491390ba0bf7486c3e7c</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Health and Human Services - Tonalea, AZ - NAICS 236220 - due Dec 1, 2026 - Indian Small Business Economic Enterprise</description>
-</item><item><title>657-24-111JC FCA-Renovate Ambassador Suite &amp; Main Lobby B1</title><link>https://sam.gov/opp/e0d9b9c804604d5181716365753382bf/view</link>
-<guid isPermaLink="false">e0d9b9c804604d5181716365753382bf</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Veterans Affairs - MO - NAICS 236220 - due Nov 12, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
-</item><item><title>Solicitation:  Construct Combat Rescue Helicopter Flight Simulator Facility at Moffett ANGB</title><link>https://sam.gov/opp/e323b5748db4496680bee238d37b6fdd/view</link>
-<guid isPermaLink="false">e323b5748db4496680bee238d37b6fdd</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - CA - NAICS 236220 - due Nov 27, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>Department Of Energy - National Nuclear Security Administration Joint Cyber Facility Construction Solicitation</title><link>https://sam.gov/opp/e87be19f02de482e99c7ad4ca3402fa8/view</link>
-<guid isPermaLink="false">e87be19f02de482e99c7ad4ca3402fa8</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>General Services Administration - Lakewood, CO - NAICS 236220 - due Dec 7, 2026 - No Set aside used</description>
-</item><item><title>Y1DZ--Project Number 657-507, Correct Seismic Deficiencies for  Building 14, Marion VAMC, Illinois    Construction of New Boiler Plant and Demolition of Existing</title><link>https://sam.gov/opp/ebfedf446ea34a92912572363b013769/view</link>
-<guid isPermaLink="false">ebfedf446ea34a92912572363b013769</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Veterans Affairs - Marion, IL - NAICS 236220 - due Nov 20, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
-</item><item><title>N4008526R0228 DESIGN-BUILD (DB), REPAIR OTC DORM KING HALL BLDG 291, NAVAL STATION NEWPORT RI, NEWPORT RHODE ISLAND</title><link>https://sam.gov/opp/f15e80ba29c041dea1e2e9921ee8bf85/view</link>
-<guid isPermaLink="false">f15e80ba29c041dea1e2e9921ee8bf85</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - Location not listed - NAICS 236220 - due Nov 5, 2026</description>
-</item><item><title>Building 434 Roof Repair</title><link>https://sam.gov/opp/f3e3987246a7460aafd00ec969b415a0/view</link>
-<guid isPermaLink="false">f3e3987246a7460aafd00ec969b415a0</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - Groton, CT - NAICS 236220 - due Dec 21, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
-</item><item><title>Sources Sought - Cross-Domain Capabilities</title><link>https://sam.gov/opp/1715a21df9d348ce9a74b8e09054e989/view</link>
-<guid isPermaLink="false">1715a21df9d348ce9a74b8e09054e989</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - MD - NAICS 541512 - due Nov 20, 2026</description>
-</item><item><title>Fluke Met/Cal and Met/Team Software and Hardware System Upgrade</title><link>https://sam.gov/opp/6ee5969e8698421493a0399706c35621/view</link>
-<guid isPermaLink="false">6ee5969e8698421493a0399706c35621</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - Location not listed - NAICS 541519 - due Nov 17, 2026</description>
-</item><item><title>DYNATRACE SUBSCRIPTION MAINTENANCE</title><link>https://sam.gov/opp/b90caa72965b457eaef14c29d056f219/view</link>
-<guid isPermaLink="false">b90caa72965b457eaef14c29d056f219</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Federal Deposit Insurance Corporation - Arlington, VA - NAICS 541519 - due Nov 13, 2026 - No Set aside used</description>
-</item><item><title>Department of the Air Force Business and Enterprise Systems (BES) Commercial Solutions Opening (CSO)</title><link>https://sam.gov/opp/fdedccd1d1aa4625881cd9f2ef3694ca/view</link>
-<guid isPermaLink="false">fdedccd1d1aa4625881cd9f2ef3694ca</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - AL - NAICS 541519 - due see notice - No Set aside used</description>
-</item><item><title>MACH1_AOI_FA890327M1006_F-47 Future Campus at Nellis AFB</title><link>https://sam.gov/opp/658688de13cd41a5876a0d76a18071a3/view</link>
-<guid isPermaLink="false">658688de13cd41a5876a0d76a18071a3</guid>
-<pubDate>Mon, 02 Nov 2026 11:00:29 +0000</pubDate>
-<description>Department of Defense - NV - NAICS 236220 - due Nov 18, 2026 - No Set aside used</description>
-</item><item><title>VA Canandaigua Phase III Presolicitation Notice</title><link>https://sam.gov/opp/a349848dfbf545818cac91b4eaa89873/view</link>
-<guid isPermaLink="false">a349848dfbf545818cac91b4eaa89873</guid>
-<pubDate>Mon, 02 Nov 2026 11:00:29 +0000</pubDate>
-<description>Department of Defense - Location not listed - NAICS 236220 - due Nov 16, 2026</description>
-</item><item><title>J045--Glycol Loop Flushing - NWI</title><link>https://sam.gov/opp/0bee5a6bef12460298b75b9691339c4f/view</link>
-<guid isPermaLink="false">0bee5a6bef12460298b75b9691339c4f</guid>
-<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 238220 - due Nov 10, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
-</item><item><title>CON | Z2DA | REPLACE CHILLER 1 B104 | 580-24-111 | SOLICITATION</title><link>https://sam.gov/opp/16567730ff5e4a9c84b882059d6160b8/view</link>
-<guid isPermaLink="false">16567730ff5e4a9c84b882059d6160b8</guid>
-<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
-<description>Department of Veterans Affairs - Houston, TX - NAICS 238220 - due Dec 8, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
-</item><item><title>J041--2nd Floor HVAC Duct Repairs    VA Central California Healthcare System</title><link>https://sam.gov/opp/1e81d120599c4a54a837ac99eb654b62/view</link>
-<guid isPermaLink="false">1e81d120599c4a54a837ac99eb654b62</guid>
-<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
-<description>Department of Veterans Affairs - Fresno - NAICS 238220 - due Nov 4, 2026</description>
-</item><item><title>MXRD 26-0101 Clean HVAC Vents</title><link>https://sam.gov/opp/5975258a80794607825048956332e4a4/view</link>
-<guid isPermaLink="false">5975258a80794607825048956332e4a4</guid>
-<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
-<description>Department of Defense - MA - NAICS 238220 - due Nov 6, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>J048--NEW - Energy Center Steam Header&amp; Boilers valves, gaskets,  and vent replacement</title><link>https://sam.gov/opp/616b66e8af494e9ba365bdbb907a9176/view</link>
-<guid isPermaLink="false">616b66e8af494e9ba365bdbb907a9176</guid>
-<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
-<description>Department of Veterans Affairs - Dallas - NAICS 238220 - due Nov 9, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
-</item><item><title>John Day Dam Powerhouse HVAC Upgrades (W9127N27BA007)</title><link>https://sam.gov/opp/89b27f77366f44c48abe9bbccef3b87d/view</link>
-<guid isPermaLink="false">89b27f77366f44c48abe9bbccef3b87d</guid>
-<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
-<description>Department of Defense - Location not listed - NAICS 238220 - due Dec 28, 2026</description>
-</item><item><title>FY27 HVAC Maintenance Service</title><link>https://sam.gov/opp/b7fbbb3efe884b2888e8eb5a1629302f/view</link>
-<guid isPermaLink="false">b7fbbb3efe884b2888e8eb5a1629302f</guid>
-<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
-<description>Department of Defense - Fort Myer, VA - NAICS 238220 - due Nov 13, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>J041--HVAC Repair</title><link>https://sam.gov/opp/c16529d2733f427cb1f5ddd14d02104b/view</link>
-<guid isPermaLink="false">c16529d2733f427cb1f5ddd14d02104b</guid>
-<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
-<description>Department of Veterans Affairs - Little Rock - NAICS 238220 - due Nov 4, 2026</description>
-</item><item><title>16292 Steam Boiler Replacement</title><link>https://sam.gov/opp/c3fec97f5ce94aef8f93a61586d47aec/view</link>
-<guid isPermaLink="false">c3fec97f5ce94aef8f93a61586d47aec</guid>
-<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
-<description>Department of Defense - UT - NAICS 238220 - due Nov 11, 2026 - Small Business Set Aside - Total</description>
 </item></channel></rss>
