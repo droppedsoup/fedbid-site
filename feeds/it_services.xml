@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal IT services bids</title><link>https://fedbid.us/trades/it_services.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Thu, 05 Nov 2026 12:00:16 +0000</lastBuildDate><item><title>JFrog Artifactory Subscription Maintenance</title><link>https://sam.gov/opp/227a75923da1434082bf0321983a8133/view</link>
-<guid isPermaLink="false">227a75923da1434082bf0321983a8133</guid>
-<pubDate>Thu, 05 Nov 2026 11:00:29 +0000</pubDate>
-<description>Federal Deposit Insurance Corporation - Arlington, VA - NAICS 541519 - due Nov 5, 2026 - No Set aside used</description>
+<lastBuildDate>Fri, 06 Nov 2026 12:00:22 +0000</lastBuildDate><item><title>Authentication Services for FISMA Support</title><link>https://sam.gov/opp/1be06ecaac4541dcb322fd6874c50622/view</link>
+<guid isPermaLink="false">1be06ecaac4541dcb322fd6874c50622</guid>
+<pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
+<description>Department of the Treasury - Parkersburg, WV - NAICS 541519 - due Nov 16, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
+</item><item><title>BATDOK Family of Systems (FoS)</title><link>https://sam.gov/opp/23b72e8e6876494ca8ad8d6b9083dd59/view</link>
+<guid isPermaLink="false">23b72e8e6876494ca8ad8d6b9083dd59</guid>
+<pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
+<description>Department of Defense - VA - NAICS 541511 - due Nov 19, 2026</description>
+</item><item><title>Cybersecurity Engineering and DoD Risk Management Framework (RMF) Support Services</title><link>https://sam.gov/opp/2614d955760b40189435135e32a11a56/view</link>
+<guid isPermaLink="false">2614d955760b40189435135e32a11a56</guid>
+<pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
+<description>Department of Defense - Aberdeen Proving Ground, MD - NAICS 541519 - due Nov 12, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
+</item><item><title>Department of the Air Force Business and Enterprise Systems (BES) Commercial Solutions Opening (CSO)</title><link>https://sam.gov/opp/9262f35a564f484aa8bc59c9248521e9/view</link>
+<guid isPermaLink="false">9262f35a564f484aa8bc59c9248521e9</guid>
+<pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
+<description>Department of Defense - AL - NAICS 541519 - due see notice - No Set aside used</description>
+</item><item><title>R499--New Task Order - Qualtrics FedRAMP Survey Services  (VA-26-00082605)</title><link>https://sam.gov/opp/a4088a96523845adbad8e790a77d2099/view</link>
+<guid isPermaLink="false">a4088a96523845adbad8e790a77d2099</guid>
+<pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 12, 2026</description>
+</item><item><title>Hand Held Terminals / SOTI Software Requirement</title><link>https://sam.gov/opp/ad4666020ec748c6bbd5edac3edc8586/view</link>
+<guid isPermaLink="false">ad4666020ec748c6bbd5edac3edc8586</guid>
+<pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
+<description>Department of Defense - Fort Lee, VA - NAICS 541519 - due Nov 9, 2026</description>
+</item><item><title>PMX-281 IT Strategy, Software Modernization, and Digital Decision Intelligence Advisory Subscriptions</title><link>https://sam.gov/opp/cbe891283bdb43f5bdb10506177114b4/view</link>
+<guid isPermaLink="false">cbe891283bdb43f5bdb10506177114b4</guid>
+<pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
+<description>Department of Defense - MD - NAICS 541519 - due Nov 11, 2026 - No Set aside used</description>
+</item><item><title>JFrog Artifactory Subscription Maintenance</title><link>https://sam.gov/opp/d3adac6944584f0fb476d69d993568a2/view</link>
+<guid isPermaLink="false">d3adac6944584f0fb476d69d993568a2</guid>
+<pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
+<description>Federal Deposit Insurance Corporation - Arlington, VA - NAICS 541519 - due Nov 10, 2026 - No Set aside used</description>
+</item><item><title>Fiber Cables and Various Accessories</title><link>https://sam.gov/opp/d562d54205dd40e297305718b77e8c69/view</link>
+<guid isPermaLink="false">d562d54205dd40e297305718b77e8c69</guid>
+<pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
+<description>National Aeronautics and Space Administration - Location not listed - NAICS 541519 - due Nov 6, 2026</description>
 </item><item><title>6515--PYXIS IV PREP</title><link>https://sam.gov/opp/24e3fac6c3b34326a2691aab2f550866/view</link>
 <guid isPermaLink="false">24e3fac6c3b34326a2691aab2f550866</guid>
 <pubDate>Thu, 05 Nov 2026 11:00:29 +0000</pubDate>
@@ -81,10 +113,6 @@
 <guid isPermaLink="false">904745e4caba4f4e9ce04a3a98b7af56</guid>
 <pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
 <description>Department of Homeland Security - Springfield, VA - NAICS 541512 - due Nov 6, 2026 - No Set aside used</description>
-</item><item><title>Annual Renewal for SonarSource</title><link>https://sam.gov/opp/9aa893a41caa4de6aecc20b9d289c0c6/view</link>
-<guid isPermaLink="false">9aa893a41caa4de6aecc20b9d289c0c6</guid>
-<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
-<description>Social Security Administration - Location not listed - NAICS 541519 - due Nov 5, 2026 - No Set aside used</description>
 </item><item><title>Security Equipment for the United States Naval Academy</title><link>https://sam.gov/opp/a00db012b9bd49f69efdda33d728d6ae/view</link>
 <guid isPermaLink="false">a00db012b9bd49f69efdda33d728d6ae</guid>
 <pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
@@ -125,10 +153,6 @@
 <guid isPermaLink="false">6e4396244ef04e2e95ef6831d7352649</guid>
 <pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
 <description>Department of Defense - Arlington, VA - NAICS 541511 - due Nov 10, 2026</description>
-</item><item><title>DA10--495 - PowerScribe 360 and Upgrade - Three-Year IDIQ - PoP  11-11-26 to 11-10-29</title><link>https://sam.gov/opp/9a454bef91b04bb5a634aedf47c76a79/view</link>
-<guid isPermaLink="false">9a454bef91b04bb5a634aedf47c76a79</guid>
-<pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 5, 2026</description>
 </item><item><title>DLA-RFI-CT-2027-WBOS-MKTRES</title><link>https://sam.gov/opp/b44026882ad144629634ab6643a9f0d8/view</link>
 <guid isPermaLink="false">b44026882ad144629634ab6643a9f0d8</guid>
 <pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
@@ -145,10 +169,6 @@
 <guid isPermaLink="false">ecf63283c97e4d4f8047f3497c6801bc</guid>
 <pubDate>Sat, 31 Oct 2026 10:00:22 +0000</pubDate>
 <description>National Aeronautics and Space Administration - Hampton, VA - NAICS 541519 - due Nov 6, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>DA10--ORACLE Upgrade SaaS Subscriptions in Support of Veterans  Canteen Service (VCS)  (VA-27-00010417)</title><link>https://sam.gov/opp/0ddb7d794e474d36b60d9937667bf06c/view</link>
-<guid isPermaLink="false">0ddb7d794e474d36b60d9937667bf06c</guid>
-<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 541512 - due Nov 5, 2026</description>
 </item><item><title>Department of the Air Force Program Business and Enterprise Systems (BES) Commercial Solutions Opening (CSO)</title><link>https://sam.gov/opp/137ceb760c654cd6bf61d9debec892dc/view</link>
 <guid isPermaLink="false">137ceb760c654cd6bf61d9debec892dc</guid>
 <pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
@@ -173,10 +193,6 @@
 <guid isPermaLink="false">9bfde64670ac41dfb6cf7b38f160ca3d</guid>
 <pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
 <description>Department of Defense - Fort Lee, VA - NAICS 541519 - due Nov 9, 2026</description>
-</item><item><title>JFrog Artifactory Subscription Maintenance</title><link>https://sam.gov/opp/a79f6a3863444ed49f32c730ceed0f74/view</link>
-<guid isPermaLink="false">a79f6a3863444ed49f32c730ceed0f74</guid>
-<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
-<description>Federal Deposit Insurance Corporation - Arlington, VA - NAICS 541519 - due Nov 5, 2026 - No Set aside used</description>
 </item><item><title>Simulator Common Architecture Requirements and Standards (SCARS)</title><link>https://sam.gov/opp/aba5c75a5ca941b1b176ccc5a8c51a4e/view</link>
 <guid isPermaLink="false">aba5c75a5ca941b1b176ccc5a8c51a4e</guid>
 <pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
@@ -185,20 +201,4 @@
 <guid isPermaLink="false">be1b41d880064dd1be99c1e611c2f563</guid>
 <pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
 <description>Department of Defense - NJ - NAICS 541511 - due Nov 12, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>Cybersecurity Engineering and DoD Risk Management Framework (RMF) Support Services</title><link>https://sam.gov/opp/c8bd181ec7cd4f0f9577817ff1050fc4/view</link>
-<guid isPermaLink="false">c8bd181ec7cd4f0f9577817ff1050fc4</guid>
-<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
-<description>Department of Defense - Aberdeen Proving Ground, MD - NAICS 541519 - due Nov 12, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
-</item><item><title>Solicitation for IDIQ Contract for Biology Testing of DM</title><link>https://sam.gov/opp/c95b9b34f3074485936d073e71114c1f/view</link>
-<guid isPermaLink="false">c95b9b34f3074485936d073e71114c1f</guid>
-<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
-<description>Department of Defense - Location not listed - NAICS 541519 - due Dec 1, 2026</description>
-</item><item><title>DA10--ORACLE Upgrade SaaS Subscriptions in Support of Veterans  Canteen Service (VCS)  (VA-27-00010417)</title><link>https://sam.gov/opp/d5807cd7766a4d8881af4ed2f6d838be/view</link>
-<guid isPermaLink="false">d5807cd7766a4d8881af4ed2f6d838be</guid>
-<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 541512 - due Nov 5, 2026</description>
-</item><item><title>FDIC - Salesforce Enterprise Agreement – Subscription Licenses/Maintenance</title><link>https://sam.gov/opp/09809b2087954c19aec0cbfb7accaf3b/view</link>
-<guid isPermaLink="false">09809b2087954c19aec0cbfb7accaf3b</guid>
-<pubDate>Thu, 29 Oct 2026 10:01:48 +0000</pubDate>
-<description>Federal Deposit Insurance Corporation - Arlington, VA - NAICS 541519 - due Nov 23, 2026 - No Set aside used</description>
 </item></channel></rss>
