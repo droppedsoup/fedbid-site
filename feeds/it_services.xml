@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal IT services bids</title><link>https://fedbid.us/trades/it_services.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Thu, 12 Nov 2026 12:00:04 +0000</lastBuildDate><item><title>IM&amp;T, Program, Resource, Optimization, Value and Execution (IMPROVE)</title><link>https://sam.gov/opp/385e9df7fced4ef08d9b6b6130a171d4/view</link>
+<lastBuildDate>Fri, 13 Nov 2026 12:00:05 +0000</lastBuildDate><item><title>DA01--Veterans Health Information Systems and Technology  (VISTA) Blood Establishment Computer Software (VBECS)  Operations and Maintenance Support II</title><link>https://sam.gov/opp/05e1ecb6acc245ee8a9a05c6f4bcea96/view</link>
+<guid isPermaLink="false">05e1ecb6acc245ee8a9a05c6f4bcea96</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 30, 2026</description>
+</item><item><title>ZeroFox Online Threat Monitoring and Removal</title><link>https://sam.gov/opp/0d110eb9b6ba47eea691dff82e49a98d/view</link>
+<guid isPermaLink="false">0d110eb9b6ba47eea691dff82e49a98d</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Federal Housing Finance Agency - DC - NAICS 541519 - due Nov 18, 2026 - No Set aside used</description>
+</item><item><title>DF01--RFI - F5 Load Balancer Replacement (VA-27-00017931)</title><link>https://sam.gov/opp/0fd50e3e50434ac6901b9b7f67c197c2/view</link>
+<guid isPermaLink="false">0fd50e3e50434ac6901b9b7f67c197c2</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 17, 2026</description>
+</item><item><title>Sustainment for SRW</title><link>https://sam.gov/opp/1daad770de79423cb05c361a706d9740/view</link>
+<guid isPermaLink="false">1daad770de79423cb05c361a706d9740</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Defense - VA - NAICS 541519 - due Dec 11, 2026</description>
+</item><item><title>Intel Xeon W-3500 Series Tower Workstation</title><link>https://sam.gov/opp/238c67665deb4b25ad1f37160aed0f31/view</link>
+<guid isPermaLink="false">238c67665deb4b25ad1f37160aed0f31</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Defense - Washington, DC - NAICS 541512 - due Nov 16, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>Safety-Integrated Risk Information System</title><link>https://sam.gov/opp/3781b6c27eaa4938842fe44217964d14/view</link>
+<guid isPermaLink="false">3781b6c27eaa4938842fe44217964d14</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Defense - NM - NAICS 541511 - due Nov 25, 2026</description>
+</item><item><title>Security Equipment for the United States Naval Academy</title><link>https://sam.gov/opp/3f1abc6cd10d46bb87695db476c07d57/view</link>
+<guid isPermaLink="false">3f1abc6cd10d46bb87695db476c07d57</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Defense - MD - NAICS 541519 - due Nov 20, 2026 - No Set aside used</description>
+</item><item><title>Tungsten Software</title><link>https://sam.gov/opp/4205a7e24249498e8bdf47a66a48e86e/view</link>
+<guid isPermaLink="false">4205a7e24249498e8bdf47a66a48e86e</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Defense - Quantico, VA - NAICS 541519 - due Nov 17, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>Post Quantum Cryptography (PQC) Readiness and Validation Status</title><link>https://sam.gov/opp/4883121a70ef4cbd8b562e8d0a668497/view</link>
+<guid isPermaLink="false">4883121a70ef4cbd8b562e8d0a668497</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>General Services Administration - Washington, DC - NAICS 541519 - due Dec 7, 2026</description>
+</item><item><title>DA01--Veterans Health Information Systems and Technology  (VISTA) Blood Establishment Computer Software (VBECS)  Operations and Maintenance Support II</title><link>https://sam.gov/opp/726799243f0041a58fe4d5fb0334343e/view</link>
+<guid isPermaLink="false">726799243f0041a58fe4d5fb0334343e</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 30, 2026</description>
+</item><item><title>R--IT TSC - DATA ANALYTICS AND SERVICES</title><link>https://sam.gov/opp/c8e7297051974fa1b520dd7f5bef0331/view</link>
+<guid isPermaLink="false">c8e7297051974fa1b520dd7f5bef0331</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of the Interior - Location not listed - NAICS 541512 - due Nov 19, 2026</description>
+</item><item><title>W50NH9-27-R-A006 (formally W50NH9-26-R-A019) Scalable Geospatial Intelligence (GEOINT) Architecture Information Technology (IT) Contractor Manpower Equivalent (CME) Support (Scalable GEOINT)</title><link>https://sam.gov/opp/d5e143984d534529b3b2e3a15341e604/view</link>
+<guid isPermaLink="false">d5e143984d534529b3b2e3a15341e604</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 541519 - due Nov 13, 2026</description>
+</item><item><title>Enterprise Wide IT Services</title><link>https://sam.gov/opp/ecb449684b66456a91735d53b1f5d2ea/view</link>
+<guid isPermaLink="false">ecb449684b66456a91735d53b1f5d2ea</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Defense - Washington, DC - NAICS 541519 - due Nov 20, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>IM&amp;T, Program, Resource, Optimization, Value and Execution (IMPROVE)</title><link>https://sam.gov/opp/385e9df7fced4ef08d9b6b6130a171d4/view</link>
 <guid isPermaLink="false">385e9df7fced4ef08d9b6b6130a171d4</guid>
 <pubDate>Wed, 11 Nov 2026 11:00:32 +0000</pubDate>
 <description>Department of Defense - VA - NAICS 541511 - due Dec 3, 2026 - No Set aside used</description>
@@ -33,10 +85,6 @@
 <guid isPermaLink="false">d168c9a2ace94efabe21990c977105c7</guid>
 <pubDate>Wed, 11 Nov 2026 11:00:32 +0000</pubDate>
 <description>General Services Administration - Washington, DC - NAICS 541519 - due Dec 7, 2026</description>
-</item><item><title>Numerical Weather Prediction Model Verification and Development</title><link>https://sam.gov/opp/dc4ac94052df4711b66cdf1713724e47/view</link>
-<guid isPermaLink="false">dc4ac94052df4711b66cdf1713724e47</guid>
-<pubDate>Wed, 11 Nov 2026 11:00:32 +0000</pubDate>
-<description>Department of Defense - NE - NAICS 541512 - due Nov 12, 2026 - No Set aside used</description>
 </item><item><title>ADAPTS IDIQ</title><link>https://sam.gov/opp/dd56e987cefb470ea2f697f899386cd2/view</link>
 <guid isPermaLink="false">dd56e987cefb470ea2f697f899386cd2</guid>
 <pubDate>Wed, 11 Nov 2026 11:00:32 +0000</pubDate>
@@ -105,10 +153,6 @@
 <guid isPermaLink="false">aad592122aa84b0380359b7d1355b7dd</guid>
 <pubDate>Sat, 07 Nov 2026 11:00:09 +0000</pubDate>
 <description>Department of Defense - NV - NAICS 541511 - due Nov 20, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>Cybersecurity Engineering and DoD Risk Management Framework (RMF) Support Services</title><link>https://sam.gov/opp/ea96dae71cbd415c97cc5b191b00ef7d/view</link>
-<guid isPermaLink="false">ea96dae71cbd415c97cc5b191b00ef7d</guid>
-<pubDate>Sat, 07 Nov 2026 11:00:09 +0000</pubDate>
-<description>Department of Defense - Aberdeen Proving Ground, MD - NAICS 541519 - due Nov 12, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
 </item><item><title>STANDARD LABOR DATA COLLECTION AND DISTRIBUTION APPLICATION (SLDCADA) REQUEST FOR PROPOSAL</title><link>https://sam.gov/opp/f8200861df5e45acbd42e749feb7d8f8/view</link>
 <guid isPermaLink="false">f8200861df5e45acbd42e749feb7d8f8</guid>
 <pubDate>Sat, 07 Nov 2026 11:00:09 +0000</pubDate>
@@ -121,18 +165,10 @@
 <guid isPermaLink="false">23b72e8e6876494ca8ad8d6b9083dd59</guid>
 <pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
 <description>Department of Defense - VA - NAICS 541511 - due Nov 19, 2026</description>
-</item><item><title>Cybersecurity Engineering and DoD Risk Management Framework (RMF) Support Services</title><link>https://sam.gov/opp/2614d955760b40189435135e32a11a56/view</link>
-<guid isPermaLink="false">2614d955760b40189435135e32a11a56</guid>
-<pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
-<description>Department of Defense - Aberdeen Proving Ground, MD - NAICS 541519 - due Nov 12, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
 </item><item><title>Department of the Air Force Business and Enterprise Systems (BES) Commercial Solutions Opening (CSO)</title><link>https://sam.gov/opp/9262f35a564f484aa8bc59c9248521e9/view</link>
 <guid isPermaLink="false">9262f35a564f484aa8bc59c9248521e9</guid>
 <pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
 <description>Department of Defense - AL - NAICS 541519 - due see notice - No Set aside used</description>
-</item><item><title>R499--New Task Order - Qualtrics FedRAMP Survey Services  (VA-26-00082605)</title><link>https://sam.gov/opp/a4088a96523845adbad8e790a77d2099/view</link>
-<guid isPermaLink="false">a4088a96523845adbad8e790a77d2099</guid>
-<pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 12, 2026</description>
 </item><item><title>6515--PYXIS IV PREP</title><link>https://sam.gov/opp/24e3fac6c3b34326a2691aab2f550866/view</link>
 <guid isPermaLink="false">24e3fac6c3b34326a2691aab2f550866</guid>
 <pubDate>Thu, 05 Nov 2026 11:00:29 +0000</pubDate>
@@ -153,10 +189,6 @@
 <guid isPermaLink="false">abb4d95176944adfa211a5832b0901cc</guid>
 <pubDate>Thu, 05 Nov 2026 11:00:29 +0000</pubDate>
 <description>Department of Defense - Location not listed - NAICS 541512 - due Dec 2, 2026 - SBA Certified Women-Owned Small Business (WOSB) Program Set-Aside (FAR 19.15)</description>
-</item><item><title>Numerical Weather Prediction Model Verification and Development</title><link>https://sam.gov/opp/c58d5f28fea94150895d86266964d56a/view</link>
-<guid isPermaLink="false">c58d5f28fea94150895d86266964d56a</guid>
-<pubDate>Thu, 05 Nov 2026 11:00:29 +0000</pubDate>
-<description>Department of Defense - NE - NAICS 541512 - due Nov 12, 2026 - No Set aside used</description>
 </item><item><title>U.S. Coast Guard Augmented Reality and Virtual Reality Training Devices</title><link>https://sam.gov/opp/d11021cb4fc14020b5eff9532adb071f/view</link>
 <guid isPermaLink="false">d11021cb4fc14020b5eff9532adb071f</guid>
 <pubDate>Thu, 05 Nov 2026 11:00:29 +0000</pubDate>
@@ -169,36 +201,4 @@
 <guid isPermaLink="false">4fb5f39350c848309e01afe119bb2932</guid>
 <pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
 <description>Department of Veterans Affairs - Pittsburgh - NAICS 541519 - due Nov 17, 2026</description>
-</item><item><title>AI-Enabled Support</title><link>https://sam.gov/opp/7d0e10dda09149abb1d42db11ec53fcc/view</link>
-<guid isPermaLink="false">7d0e10dda09149abb1d42db11ec53fcc</guid>
-<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
-<description>Department of Defense - Raf Lakenheath, GB-SFK - NAICS 541511 - due Dec 1, 2026</description>
-</item><item><title>Security Equipment for the United States Naval Academy</title><link>https://sam.gov/opp/a00db012b9bd49f69efdda33d728d6ae/view</link>
-<guid isPermaLink="false">a00db012b9bd49f69efdda33d728d6ae</guid>
-<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
-<description>Department of Defense - MD - NAICS 541519 - due Nov 12, 2026 - No Set aside used</description>
-</item><item><title>NCSS - Onboarding NHLBI to NEI OpenSpecimen</title><link>https://sam.gov/opp/b8d06282ff634e3ba9796ee62d3f0363/view</link>
-<guid isPermaLink="false">b8d06282ff634e3ba9796ee62d3f0363</guid>
-<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
-<description>Department of Health and Human Services - Location not listed - NAICS 541511 - due Nov 17, 2026</description>
-</item><item><title>Enterprise Next (ENX) Draft RFP</title><link>https://sam.gov/opp/ec03308fb0ff457e9ac4c0418ed3b963/view</link>
-<guid isPermaLink="false">ec03308fb0ff457e9ac4c0418ed3b963</guid>
-<pubDate>Wed, 04 Nov 2026 11:00:30 +0000</pubDate>
-<description>National Aeronautics and Space Administration - Greenbelt, MD - NAICS 541512 - due Nov 13, 2026</description>
-</item><item><title>Sources Sought - Cross-Domain Capabilities</title><link>https://sam.gov/opp/1715a21df9d348ce9a74b8e09054e989/view</link>
-<guid isPermaLink="false">1715a21df9d348ce9a74b8e09054e989</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - MD - NAICS 541512 - due Nov 20, 2026</description>
-</item><item><title>Fluke Met/Cal and Met/Team Software and Hardware System Upgrade</title><link>https://sam.gov/opp/6ee5969e8698421493a0399706c35621/view</link>
-<guid isPermaLink="false">6ee5969e8698421493a0399706c35621</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - Location not listed - NAICS 541519 - due Nov 17, 2026</description>
-</item><item><title>DYNATRACE SUBSCRIPTION MAINTENANCE</title><link>https://sam.gov/opp/b90caa72965b457eaef14c29d056f219/view</link>
-<guid isPermaLink="false">b90caa72965b457eaef14c29d056f219</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Federal Deposit Insurance Corporation - Arlington, VA - NAICS 541519 - due Nov 13, 2026 - No Set aside used</description>
-</item><item><title>Department of the Air Force Business and Enterprise Systems (BES) Commercial Solutions Opening (CSO)</title><link>https://sam.gov/opp/fdedccd1d1aa4625881cd9f2ef3694ca/view</link>
-<guid isPermaLink="false">fdedccd1d1aa4625881cd9f2ef3694ca</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - AL - NAICS 541519 - due see notice - No Set aside used</description>
 </item></channel></rss>
