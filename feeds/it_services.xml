@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal IT services bids</title><link>https://fedbid.us/trades/it_services.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Mon, 16 Nov 2026 12:00:26 +0000</lastBuildDate><item><title>Automated Mission Communication Manager Request for Information (RFI)</title><link>https://sam.gov/opp/1398a352e7a844f998eeeb7e2c9e3f57/view</link>
+<lastBuildDate>Mon, 16 Nov 2026 23:13:50 +0000</lastBuildDate><item><title>Automated Mission Communication Manager Request for Information (RFI)</title><link>https://sam.gov/opp/1398a352e7a844f998eeeb7e2c9e3f57/view</link>
 <guid isPermaLink="false">1398a352e7a844f998eeeb7e2c9e3f57</guid>
 <pubDate>Sat, 14 Nov 2026 11:00:53 +0000</pubDate>
 <description>Department of Defense - Wright Patterson Afb, OH - NAICS 541512 - due Nov 30, 2026 - No Set aside used</description>
@@ -49,10 +49,6 @@
 <guid isPermaLink="false">1daad770de79423cb05c361a706d9740</guid>
 <pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
 <description>Department of Defense - VA - NAICS 541519 - due Dec 11, 2026</description>
-</item><item><title>Intel Xeon W-3500 Series Tower Workstation</title><link>https://sam.gov/opp/238c67665deb4b25ad1f37160aed0f31/view</link>
-<guid isPermaLink="false">238c67665deb4b25ad1f37160aed0f31</guid>
-<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - Washington, DC - NAICS 541512 - due Nov 16, 2026 - Small Business Set Aside - Total</description>
 </item><item><title>Safety-Integrated Risk Information System</title><link>https://sam.gov/opp/3781b6c27eaa4938842fe44217964d14/view</link>
 <guid isPermaLink="false">3781b6c27eaa4938842fe44217964d14</guid>
 <pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
@@ -177,10 +173,6 @@
 <guid isPermaLink="false">f8200861df5e45acbd42e749feb7d8f8</guid>
 <pubDate>Sat, 07 Nov 2026 11:00:09 +0000</pubDate>
 <description>Department of Defense - DC - NAICS 541519 - due Dec 6, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>Authentication Services for FISMA Support</title><link>https://sam.gov/opp/1be06ecaac4541dcb322fd6874c50622/view</link>
-<guid isPermaLink="false">1be06ecaac4541dcb322fd6874c50622</guid>
-<pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
-<description>Department of the Treasury - Parkersburg, WV - NAICS 541519 - due Nov 16, 2026 - 8(a) Set-Aside (FAR 19.8)</description>
 </item><item><title>BATDOK Family of Systems (FoS)</title><link>https://sam.gov/opp/23b72e8e6876494ca8ad8d6b9083dd59/view</link>
 <guid isPermaLink="false">23b72e8e6876494ca8ad8d6b9083dd59</guid>
 <pubDate>Fri, 06 Nov 2026 11:00:37 +0000</pubDate>
@@ -201,4 +193,12 @@
 <guid isPermaLink="false">65cc4810b8244a60b93a11d162353793</guid>
 <pubDate>Thu, 05 Nov 2026 11:00:29 +0000</pubDate>
 <description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 17, 2026</description>
+</item><item><title>Marine Corps Education Command Information Technology Support Services</title><link>https://sam.gov/opp/abb4d95176944adfa211a5832b0901cc/view</link>
+<guid isPermaLink="false">abb4d95176944adfa211a5832b0901cc</guid>
+<pubDate>Thu, 05 Nov 2026 11:00:29 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 541512 - due Dec 2, 2026 - SBA Certified Women-Owned Small Business (WOSB) Program Set-Aside (FAR 19.15)</description>
+</item><item><title>U.S. Coast Guard Augmented Reality and Virtual Reality Training Devices</title><link>https://sam.gov/opp/d11021cb4fc14020b5eff9532adb071f/view</link>
+<guid isPermaLink="false">d11021cb4fc14020b5eff9532adb071f</guid>
+<pubDate>Thu, 05 Nov 2026 11:00:29 +0000</pubDate>
+<description>Department of Homeland Security - Washington, DC - NAICS 541511 - due Nov 23, 2026</description>
 </item></channel></rss>

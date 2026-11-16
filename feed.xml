@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal bids (FedBid.us)</title><link>https://fedbid.us/bids.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Mon, 16 Nov 2026 12:00:26 +0000</lastBuildDate><item><title>FORCE PROTECTION OF ROBERT E. KAMOSA TRANSMITTING STATION FACILITIES, TINIAN</title><link>https://sam.gov/opp/c8ea5db9da4f41e9b8c9c3344e2f4e8a/view</link>
+<lastBuildDate>Mon, 16 Nov 2026 23:13:50 +0000</lastBuildDate><item><title>FORCE PROTECTION OF ROBERT E. KAMOSA TRANSMITTING STATION FACILITIES, TINIAN</title><link>https://sam.gov/opp/c8ea5db9da4f41e9b8c9c3344e2f4e8a/view</link>
 <guid isPermaLink="false">c8ea5db9da4f41e9b8c9c3344e2f4e8a</guid>
 <pubDate>Mon, 16 Nov 2026 11:00:07 +0000</pubDate>
 <description>Department of Defense - Tinian, MP - NAICS 561612 - due Nov 18, 2026 - No Set aside used</description>
@@ -89,10 +89,6 @@
 <guid isPermaLink="false">754a3041738c44e298d272d61b560918</guid>
 <pubDate>Sat, 14 Nov 2026 11:00:53 +0000</pubDate>
 <description>Department of Defense - Location not listed - NAICS 236220 - due Nov 20, 2026</description>
-</item><item><title>Facility Enhancement and Maintenance IDIQ</title><link>https://sam.gov/opp/7f2faf7581d44e019f1fbd1a951eed93/view</link>
-<guid isPermaLink="false">7f2faf7581d44e019f1fbd1a951eed93</guid>
-<pubDate>Sat, 14 Nov 2026 11:00:53 +0000</pubDate>
-<description>Department of Defense - SC - NAICS 236220 - due Nov 16, 2026 - Small Business Set Aside - Total</description>
 </item><item><title>Z2DA--612A4-27-018 | Replace B650 3rd and 2nd Flooring</title><link>https://sam.gov/opp/837a61b6cb6e4c48911189781921c4ea/view</link>
 <guid isPermaLink="false">837a61b6cb6e4c48911189781921c4ea</guid>
 <pubDate>Sat, 14 Nov 2026 11:00:53 +0000</pubDate>
@@ -185,10 +181,6 @@
 <guid isPermaLink="false">710ded67e65e4a8da9b774d401a92f21</guid>
 <pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
 <description>Department of the Interior - Location not listed - NAICS 238220 - due Nov 18, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>L7WC02_ B670 Paint Booth and HVAC</title><link>https://sam.gov/opp/ad38359ee8d346978a6be6d8b2d95070/view</link>
-<guid isPermaLink="false">ad38359ee8d346978a6be6d8b2d95070</guid>
-<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Defense - Warner Robins, GA - NAICS 238220 - due Nov 16, 2026 - No Set aside used</description>
 </item><item><title>Operations Mechanical BPA</title><link>https://sam.gov/opp/ef1c06c62a344a8e848de242213c8cd1/view</link>
 <guid isPermaLink="false">ef1c06c62a344a8e848de242213c8cd1</guid>
 <pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
@@ -201,4 +193,12 @@
 <guid isPermaLink="false">04c20e1eb018468e883151c4fb495fdf</guid>
 <pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
 <description>Department of the Interior - Rawlins, WY - NAICS 236220 - due Nov 27, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>Y1DZ--REPLACE CHILLED WATER PUMP AT THE BOILER PLANT</title><link>https://sam.gov/opp/084edbea5893482f8bab456268879131/view</link>
+<guid isPermaLink="false">084edbea5893482f8bab456268879131</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of Veterans Affairs - Bronx, NY - NAICS 236220 - due Nov 17, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
+</item><item><title>Cooling Tower, Roofing, and Structural Construction</title><link>https://sam.gov/opp/1744af7270c241aa8625a14fa869de1c/view</link>
+<guid isPermaLink="false">1744af7270c241aa8625a14fa869de1c</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
+<description>Department of the Treasury - DC - NAICS 236220 - due Dec 11, 2026 - Small Business Set Aside - Total</description>
 </item></channel></rss>
