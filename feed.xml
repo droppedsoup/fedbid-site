@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal bids (FedBid.us)</title><link>https://fedbid.us/bids.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Sun, 15 Nov 2026 12:00:24 +0000</lastBuildDate><item><title>Local Guard Force - U.S. Mission United Arab Emirates (UAE)</title><link>https://sam.gov/opp/d20f40fe98fe4b02b6a8fc3251265f83/view</link>
+<lastBuildDate>Mon, 16 Nov 2026 12:00:26 +0000</lastBuildDate><item><title>FORCE PROTECTION OF ROBERT E. KAMOSA TRANSMITTING STATION FACILITIES, TINIAN</title><link>https://sam.gov/opp/c8ea5db9da4f41e9b8c9c3344e2f4e8a/view</link>
+<guid isPermaLink="false">c8ea5db9da4f41e9b8c9c3344e2f4e8a</guid>
+<pubDate>Mon, 16 Nov 2026 11:00:07 +0000</pubDate>
+<description>Department of Defense - Tinian, MP - NAICS 561612 - due Nov 18, 2026 - No Set aside used</description>
+</item><item><title>Y1JZ--Indefinite Delivery Indefinite Quantity (IDIQ) Design-Build   &amp; Construction Multiple Award Task Order Contract (MATOC) National VA Healthcare Construction Program</title><link>https://sam.gov/opp/d9e7e8c28231465a912235da39ebf593/view</link>
+<guid isPermaLink="false">d9e7e8c28231465a912235da39ebf593</guid>
+<pubDate>Mon, 16 Nov 2026 11:00:07 +0000</pubDate>
+<description>Department of Veterans Affairs - DC - NAICS 236220 - due Jan 15, 2027 - Small Business Set Aside - Partial</description>
+</item><item><title>Veterans Affairs St. Louis Health Care System (VASTLHCS) John Cochran (JC) Hospital in St. Louis, Missouri</title><link>https://sam.gov/opp/f52ad79e675145ee8fd9c4ed6814b6f8/view</link>
+<guid isPermaLink="false">f52ad79e675145ee8fd9c4ed6814b6f8</guid>
+<pubDate>Mon, 16 Nov 2026 11:00:07 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 236220 - due Dec 4, 2026</description>
+</item><item><title>Local Guard Force - U.S. Mission United Arab Emirates (UAE)</title><link>https://sam.gov/opp/d20f40fe98fe4b02b6a8fc3251265f83/view</link>
 <guid isPermaLink="false">d20f40fe98fe4b02b6a8fc3251265f83</guid>
 <pubDate>Sat, 14 Nov 2026 11:00:53 +0000</pubDate>
 <description>Department of State - Location not listed - NAICS 561612 - due Jan 5, 2027 - No Set aside used</description>
@@ -189,16 +201,4 @@
 <guid isPermaLink="false">04c20e1eb018468e883151c4fb495fdf</guid>
 <pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
 <description>Department of the Interior - Rawlins, WY - NAICS 236220 - due Nov 27, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>Y1DZ--REPLACE CHILLED WATER PUMP AT THE BOILER PLANT</title><link>https://sam.gov/opp/084edbea5893482f8bab456268879131/view</link>
-<guid isPermaLink="false">084edbea5893482f8bab456268879131</guid>
-<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Veterans Affairs - Bronx, NY - NAICS 236220 - due Nov 17, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
-</item><item><title>Cooling Tower, Roofing, and Structural Construction</title><link>https://sam.gov/opp/1744af7270c241aa8625a14fa869de1c/view</link>
-<guid isPermaLink="false">1744af7270c241aa8625a14fa869de1c</guid>
-<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of the Treasury - DC - NAICS 236220 - due Dec 11, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>Z1DZ--Project No. 640A0-27-104, Replace Roof at Building 347  - Menlo Park</title><link>https://sam.gov/opp/1a5811f6c2cb4c5d887f8b4b9ad3c664/view</link>
-<guid isPermaLink="false">1a5811f6c2cb4c5d887f8b4b9ad3c664</guid>
-<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
-<description>Department of Veterans Affairs - Menlo Park, CA - NAICS 236220 - due Dec 1, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
 </item></channel></rss>
