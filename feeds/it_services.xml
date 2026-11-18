@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal IT services bids</title><link>https://fedbid.us/trades/it_services.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Wed, 18 Nov 2026 12:24:06 +0000</lastBuildDate><item><title>Siemens NX/Teamcenter Software Maintenance Renewal</title><link>https://sam.gov/opp/0558990b461643d6bc2947e2ac21b6b1/view</link>
+<lastBuildDate>Wed, 18 Nov 2026 13:24:11 +0000</lastBuildDate><item><title>Siemens NX/Teamcenter Software Maintenance Renewal</title><link>https://sam.gov/opp/0558990b461643d6bc2947e2ac21b6b1/view</link>
 <guid isPermaLink="false">0558990b461643d6bc2947e2ac21b6b1</guid>
 <pubDate>Tue, 17 Nov 2026 11:01:38 +0000</pubDate>
 <description>Department of Defense - Location not listed - NAICS 541519 - due Nov 19, 2026 - Small Business Set Aside - Total</description>
@@ -49,10 +49,6 @@
 <guid isPermaLink="false">05e1ecb6acc245ee8a9a05c6f4bcea96</guid>
 <pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
 <description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Nov 30, 2026</description>
-</item><item><title>ZeroFox Online Threat Monitoring and Removal</title><link>https://sam.gov/opp/0d110eb9b6ba47eea691dff82e49a98d/view</link>
-<guid isPermaLink="false">0d110eb9b6ba47eea691dff82e49a98d</guid>
-<pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
-<description>Federal Housing Finance Agency - DC - NAICS 541519 - due Nov 18, 2026 - No Set aside used</description>
 </item><item><title>Sustainment for SRW</title><link>https://sam.gov/opp/1daad770de79423cb05c361a706d9740/view</link>
 <guid isPermaLink="false">1daad770de79423cb05c361a706d9740</guid>
 <pubDate>Fri, 13 Nov 2026 11:00:51 +0000</pubDate>
@@ -201,4 +197,8 @@
 <guid isPermaLink="false">137ceb760c654cd6bf61d9debec892dc</guid>
 <pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
 <description>Department of Defense - AL - NAICS 541519 - due see notice - No Set aside used</description>
+</item><item><title>IMT HDB Service IDIQ Contract</title><link>https://sam.gov/opp/73f1f0e3fd98489ab214a6075799a3f1/view</link>
+<guid isPermaLink="false">73f1f0e3fd98489ab214a6075799a3f1</guid>
+<pubDate>Fri, 30 Oct 2026 10:01:07 +0000</pubDate>
+<description>Department of the Interior - Location not listed - NAICS 541511 - due Nov 30, 2026 - Small Business Set Aside - Total</description>
 </item></channel></rss>
