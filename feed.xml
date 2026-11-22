@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal bids (FedBid.us)</title><link>https://fedbid.us/bids.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Sat, 21 Nov 2026 12:00:24 +0000</lastBuildDate><item><title>J--NC ALLIGATOR RIVER NWR HVAC PM Option Yr Contract</title><link>https://sam.gov/opp/108e37aa05a74090a8002ece95d79d16/view</link>
+<lastBuildDate>Sun, 22 Nov 2026 12:00:00 +0000</lastBuildDate><item><title>Y1PZ--Project 629-25-104 ED Suicide Risk Mitigation Fence</title><link>https://sam.gov/opp/b0625e8253684fe6b9959e5f6be8f0b6/view</link>
+<guid isPermaLink="false">b0625e8253684fe6b9959e5f6be8f0b6</guid>
+<pubDate>Sun, 22 Nov 2026 11:00:17 +0000</pubDate>
+<description>Department of Veterans Affairs - LA - NAICS 236220 - due Dec 11, 2026</description>
+</item><item><title>Z--Rehab Kiosk Restrooms, NPS-ORCA</title><link>https://sam.gov/opp/e6a651663a204eef8b82fc17a7e74d4e/view</link>
+<guid isPermaLink="false">e6a651663a204eef8b82fc17a7e74d4e</guid>
+<pubDate>Sun, 22 Nov 2026 11:00:17 +0000</pubDate>
+<description>Department of the Interior - Cave Junction, OR - NAICS 236220 - due Dec 3, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>J--NC ALLIGATOR RIVER NWR HVAC PM Option Yr Contract</title><link>https://sam.gov/opp/108e37aa05a74090a8002ece95d79d16/view</link>
 <guid isPermaLink="false">108e37aa05a74090a8002ece95d79d16</guid>
 <pubDate>Sat, 21 Nov 2026 11:00:10 +0000</pubDate>
 <description>Department of the Interior - Location not listed - NAICS 238220 - due Dec 4, 2026 - Small Business Set Aside - Total</description>
@@ -89,10 +97,6 @@
 <guid isPermaLink="false">b01c4677710d4363a5a393d3c3e3c493</guid>
 <pubDate>Sat, 21 Nov 2026 11:00:10 +0000</pubDate>
 <description>Department of Defense - Location not listed - NAICS 236220 - due Nov 30, 2026</description>
-</item><item><title>Z2DA--FY26 NRM - 626-25-101 - Upgrade Critical Environments I</title><link>https://sam.gov/opp/b031d550af1c4922ba32b9e323ff0f10/view</link>
-<guid isPermaLink="false">b031d550af1c4922ba32b9e323ff0f10</guid>
-<pubDate>Sat, 21 Nov 2026 11:00:10 +0000</pubDate>
-<description>Department of Veterans Affairs - South Nasville, TN - NAICS 236220 - due Nov 21, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
 </item><item><title>Y1DA--NRM-CONST 528-CSI-102 Urology Equipment Site Prep | FY27 NRM</title><link>https://sam.gov/opp/c0ecad0816eb4b688afd19a2d2011c59/view</link>
 <guid isPermaLink="false">c0ecad0816eb4b688afd19a2d2011c59</guid>
 <pubDate>Sat, 21 Nov 2026 11:00:10 +0000</pubDate>
@@ -197,8 +201,4 @@
 <guid isPermaLink="false">31264a43f95f4d4183d993fb2e8b1c3d</guid>
 <pubDate>Fri, 20 Nov 2026 11:00:11 +0000</pubDate>
 <description>Department of Veterans Affairs - Hampton, VA - NAICS 238220 - due Nov 27, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
-</item><item><title>Z--13976 PUHO FIRE PROTECTION AT DORM</title><link>https://sam.gov/opp/53398cb59b8f4b0687efd4e3fa6241dc/view</link>
-<guid isPermaLink="false">53398cb59b8f4b0687efd4e3fa6241dc</guid>
-<pubDate>Fri, 20 Nov 2026 11:00:11 +0000</pubDate>
-<description>Department of the Interior - Location not listed - NAICS 238220 - due Nov 25, 2026</description>
 </item></channel></rss>
