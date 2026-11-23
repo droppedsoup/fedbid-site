@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal IT services bids</title><link>https://fedbid.us/trades/it_services.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Sun, 22 Nov 2026 12:00:00 +0000</lastBuildDate><item><title>Asana Enterprise Renewal</title><link>https://sam.gov/opp/0d57faed51cf44fbb4647ba266cb233d/view</link>
+<lastBuildDate>Mon, 23 Nov 2026 12:00:07 +0000</lastBuildDate><item><title>Asana Enterprise Renewal</title><link>https://sam.gov/opp/0d57faed51cf44fbb4647ba266cb233d/view</link>
 <guid isPermaLink="false">0d57faed51cf44fbb4647ba266cb233d</guid>
 <pubDate>Sat, 21 Nov 2026 11:00:10 +0000</pubDate>
 <description>Senate, the - Washington, DC - NAICS 541519 - due Nov 30, 2026</description>
@@ -69,10 +69,6 @@
 <guid isPermaLink="false">30829227e1be43cbb8ddbf537709616a</guid>
 <pubDate>Fri, 20 Nov 2026 11:00:11 +0000</pubDate>
 <description>Department of the Interior - Location not listed - NAICS 541511 - due Nov 30, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>S&amp;P IHS Markit Global Insight Subscription</title><link>https://sam.gov/opp/607b015371584504af3bcc2f5cbc9e55/view</link>
-<guid isPermaLink="false">607b015371584504af3bcc2f5cbc9e55</guid>
-<pubDate>Fri, 20 Nov 2026 11:00:11 +0000</pubDate>
-<description>Department of Defense - MD - NAICS 541519 - due Nov 22, 2026</description>
 </item><item><title>U.S. Senate Wellbeing Application</title><link>https://sam.gov/opp/619bcdb9e115406c9e978b7ae5812c6e/view</link>
 <guid isPermaLink="false">619bcdb9e115406c9e978b7ae5812c6e</guid>
 <pubDate>Fri, 20 Nov 2026 11:00:11 +0000</pubDate>
@@ -201,4 +197,8 @@
 <guid isPermaLink="false">5dc9d47b7d004778905287840fd6a7e4</guid>
 <pubDate>Thu, 19 Nov 2026 11:00:15 +0000</pubDate>
 <description>Department of Homeland Security - Washington, DC - NAICS 541512 - due Dec 4, 2026</description>
+</item><item><title>30 RS Mission Planning Software Tool (MPST)</title><link>https://sam.gov/opp/6a6a981f0f0441d3acd9ae1aabc340a7/view</link>
+<guid isPermaLink="false">6a6a981f0f0441d3acd9ae1aabc340a7</guid>
+<pubDate>Thu, 19 Nov 2026 11:00:15 +0000</pubDate>
+<description>Department of Defense - NV - NAICS 541511 - due Nov 30, 2026 - Small Business Set Aside - Total</description>
 </item></channel></rss>
