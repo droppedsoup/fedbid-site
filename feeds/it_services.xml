@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal IT services bids</title><link>https://fedbid.us/trades/it_services.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Wed, 25 Nov 2026 12:00:14 +0000</lastBuildDate><item><title>Automated Cost Estimating Integrated Tools (ACEIT)</title><link>https://sam.gov/opp/358f37ac0fb244f1a72af3e7e9477e44/view</link>
+<lastBuildDate>Thu, 26 Nov 2026 12:00:10 +0000</lastBuildDate><item><title>R--IT TSC - DATA ANALYTICS AND SERVICES</title><link>https://sam.gov/opp/345d81680f894c5f97a3d972806780c5/view</link>
+<guid isPermaLink="false">345d81680f894c5f97a3d972806780c5</guid>
+<pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
+<description>Department of the Interior - Location not listed - NAICS 541512 - due Nov 30, 2026</description>
+</item><item><title>DE01--ECO Enterprise Service Desk (ESD) Consolidated Effort - RFI  (VA-27-00011677)</title><link>https://sam.gov/opp/3499e632489f4e38a7fb6ec34317761f/view</link>
+<guid isPermaLink="false">3499e632489f4e38a7fb6ec34317761f</guid>
+<pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 541512 - due see notice</description>
+</item><item><title>OPM USA HIRE II Support Services - NOTICE OF ACQUISITION STRATEGY</title><link>https://sam.gov/opp/643c2b54f36249989b91e821eb704344/view</link>
+<guid isPermaLink="false">643c2b54f36249989b91e821eb704344</guid>
+<pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
+<description>General Services Administration - Washington, DC - NAICS 541519 - due Dec 20, 2026 - No Set aside used</description>
+</item><item><title>Dell Computer, Laptops, Server</title><link>https://sam.gov/opp/a1188367f9664459a43ab162af2d1fd0/view</link>
+<guid isPermaLink="false">a1188367f9664459a43ab162af2d1fd0</guid>
+<pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
+<description>Department of Defense - Washington, DC - NAICS 541519 - due Dec 2, 2026 - No Set aside used</description>
+</item><item><title>Pharmacy Patient Workflow Tracking System</title><link>https://sam.gov/opp/a256a1717dc74c16997a65128246ea88/view</link>
+<guid isPermaLink="false">a256a1717dc74c16997a65128246ea88</guid>
+<pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
+<description>Department of Health and Human Services - Gallup, NM - NAICS 541512 - due Dec 9, 2026 - Small Business Set Aside - Total</description>
+</item><item><title>D--Rapid Deployment, Operations &amp; Sustainment Support</title><link>https://sam.gov/opp/a6ddec3385a54a7b8373f35f08d23f37/view</link>
+<guid isPermaLink="false">a6ddec3385a54a7b8373f35f08d23f37</guid>
+<pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
+<description>Department of the Interior - Location not listed - NAICS 541519 - due Dec 4, 2026</description>
+</item><item><title>DLA-RFI-CT-2027-WBOS-MKTRES</title><link>https://sam.gov/opp/a940f678f3134c4ab0b5acacfcc54e5f/view</link>
+<guid isPermaLink="false">a940f678f3134c4ab0b5acacfcc54e5f</guid>
+<pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
+<description>Department of Defense - PA - NAICS 541512 - due Nov 27, 2026</description>
+</item><item><title>Solicitation for IDIQ Contract for Biology Testing of DM</title><link>https://sam.gov/opp/ad470dadb4fc4cd397aa7ea9f83ab393/view</link>
+<guid isPermaLink="false">ad470dadb4fc4cd397aa7ea9f83ab393</guid>
+<pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 541519 - due Dec 8, 2026</description>
+</item><item><title>Area of Interest (AOI) for Next Generation Enterprise Identity, Credential, and Access Management (E-ICAM) Prototype Other Transaction (OT)</title><link>https://sam.gov/opp/b1dc0f7d1e2f4525a271f894957de949/view</link>
+<guid isPermaLink="false">b1dc0f7d1e2f4525a271f894957de949</guid>
+<pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
+<description>Department of Defense - MD - NAICS 541519 - due Dec 7, 2026</description>
+</item><item><title>Automated Cost Estimating Integrated Tools (ACEIT)</title><link>https://sam.gov/opp/358f37ac0fb244f1a72af3e7e9477e44/view</link>
 <guid isPermaLink="false">358f37ac0fb244f1a72af3e7e9477e44</guid>
 <pubDate>Wed, 25 Nov 2026 11:01:00 +0000</pubDate>
 <description>Department of Defense - MD - NAICS 541511 - due Nov 30, 2026</description>
@@ -77,10 +113,6 @@
 <guid isPermaLink="false">5ed6173d3e954a7e824b7e2513930985</guid>
 <pubDate>Tue, 24 Nov 2026 11:00:33 +0000</pubDate>
 <description>Department of Defense - Fort Lee, VA - NAICS 541519 - due Dec 7, 2026 - No Set aside used</description>
-</item><item><title>UPS for Microfabrication Laboratory</title><link>https://sam.gov/opp/602514aa427e466f9c278285ecd835a0/view</link>
-<guid isPermaLink="false">602514aa427e466f9c278285ecd835a0</guid>
-<pubDate>Tue, 24 Nov 2026 11:00:33 +0000</pubDate>
-<description>National Aeronautics and Space Administration - Cleveland, OH - NAICS 541519 - due Nov 25, 2026 - Small Business Set Aside - Total</description>
 </item><item><title>FA7014-27-R-PKHB07_HAF AF A3 ALMAS_Sources Sought</title><link>https://sam.gov/opp/6e93d186ea9148bb9065e642bba2093d/view</link>
 <guid isPermaLink="false">6e93d186ea9148bb9065e642bba2093d</guid>
 <pubDate>Tue, 24 Nov 2026 11:00:33 +0000</pubDate>
@@ -169,36 +201,4 @@
 <guid isPermaLink="false">f3d5e0f610c0445ea9e09ebb2fa94629</guid>
 <pubDate>Sat, 21 Nov 2026 11:00:10 +0000</pubDate>
 <description>Department of State - DC - NAICS 541511 - due Dec 11, 2026</description>
-</item><item><title>Marine Corps Education Command Information Technology Support Services</title><link>https://sam.gov/opp/020e637fe6e94f7cbbfc781539fe0f53/view</link>
-<guid isPermaLink="false">020e637fe6e94f7cbbfc781539fe0f53</guid>
-<pubDate>Fri, 20 Nov 2026 11:00:11 +0000</pubDate>
-<description>Department of Defense - Location not listed - NAICS 541512 - due Dec 8, 2026 - SBA Certified Women-Owned Small Business (WOSB) Program Set-Aside (FAR 19.15)</description>
-</item><item><title>AI tool for Medication Reconciliation and Clinical Review</title><link>https://sam.gov/opp/2844a59e27da407db5c5aac404bd35d7/view</link>
-<guid isPermaLink="false">2844a59e27da407db5c5aac404bd35d7</guid>
-<pubDate>Fri, 20 Nov 2026 11:00:11 +0000</pubDate>
-<description>Department of Veterans Affairs - Grand Junction, CO - NAICS 541519 - due Nov 30, 2026</description>
-</item><item><title>D--IMT HDB Service IDIQ Contract</title><link>https://sam.gov/opp/30829227e1be43cbb8ddbf537709616a/view</link>
-<guid isPermaLink="false">30829227e1be43cbb8ddbf537709616a</guid>
-<pubDate>Fri, 20 Nov 2026 11:00:11 +0000</pubDate>
-<description>Department of the Interior - Location not listed - NAICS 541511 - due Nov 30, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>U.S. Senate Wellbeing Application</title><link>https://sam.gov/opp/619bcdb9e115406c9e978b7ae5812c6e/view</link>
-<guid isPermaLink="false">619bcdb9e115406c9e978b7ae5812c6e</guid>
-<pubDate>Fri, 20 Nov 2026 11:00:11 +0000</pubDate>
-<description>Senate, the - DC - NAICS 541519 - due Dec 4, 2026</description>
-</item><item><title>GeoJobe Software with Training and Support</title><link>https://sam.gov/opp/68cdbc02972e4a4699f4f486d18dddb2/view</link>
-<guid isPermaLink="false">68cdbc02972e4a4699f4f486d18dddb2</guid>
-<pubDate>Fri, 20 Nov 2026 11:00:11 +0000</pubDate>
-<description>Department of Commerce - Location not listed - NAICS 541519 - due Dec 2, 2026 - Small Business Set Aside - Total</description>
-</item><item><title>6515--Methasoft Medication Dispensing System</title><link>https://sam.gov/opp/8bb8e802ff0944ccae0490abfead9c83/view</link>
-<guid isPermaLink="false">8bb8e802ff0944ccae0490abfead9c83</guid>
-<pubDate>Fri, 20 Nov 2026 11:00:11 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Dec 1, 2026</description>
-</item><item><title>DE01--Enterprise Service Desk (ESD) Managed Services  (VA-27-00019920)</title><link>https://sam.gov/opp/975ff5c47c644fa5931e08799a344e0c/view</link>
-<guid isPermaLink="false">975ff5c47c644fa5931e08799a344e0c</guid>
-<pubDate>Fri, 20 Nov 2026 11:00:11 +0000</pubDate>
-<description>Department of Veterans Affairs - Location not listed - NAICS 541512 - due Dec 1, 2026</description>
-</item><item><title>MULTIPLE AWARD LAN/DLAN SIPR-NIPR BPA</title><link>https://sam.gov/opp/ae089f6c856e4a34b2b9e812479e63e4/view</link>
-<guid isPermaLink="false">ae089f6c856e4a34b2b9e812479e63e4</guid>
-<pubDate>Fri, 20 Nov 2026 11:00:11 +0000</pubDate>
-<description>Department of Defense - Schofield Barracks, HI - NAICS 541519 - due Dec 18, 2026 - Small Business Set Aside - Total</description>
 </item></channel></rss>
