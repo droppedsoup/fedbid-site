@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal bids (FedBid.us)</title><link>https://fedbid.us/bids.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Thu, 26 Nov 2026 12:00:10 +0000</lastBuildDate><item><title>Repair Sanitary Waste Piping at the Mann-Grandstaff VA Medical Center</title><link>https://sam.gov/opp/33ec88e000334f018234fcabcf0c4e88/view</link>
+<lastBuildDate>Fri, 27 Nov 2026 12:00:12 +0000</lastBuildDate><item><title>N4008427R1027 FY27 SPECIAL PROJECT USNH AMENDMENT 0003</title><link>https://sam.gov/opp/9df7cd2393e349028dd312d9545f4713/view</link>
+<guid isPermaLink="false">9df7cd2393e349028dd312d9545f4713</guid>
+<pubDate>Fri, 27 Nov 2026 11:00:24 +0000</pubDate>
+<description>Department of Defense - Location not listed - NAICS 236220 - due Jan 26, 2027</description>
+</item><item><title>Repair Sanitary Waste Piping at the Mann-Grandstaff VA Medical Center</title><link>https://sam.gov/opp/33ec88e000334f018234fcabcf0c4e88/view</link>
 <guid isPermaLink="false">33ec88e000334f018234fcabcf0c4e88</guid>
 <pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
 <description>Department of Veterans Affairs - Spokane, WA - NAICS 238220 - due Dec 2, 2026 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)</description>
@@ -197,8 +201,4 @@
 <guid isPermaLink="false">2f1784ffc05048438ac74897d7f4d8d0</guid>
 <pubDate>Wed, 25 Nov 2026 11:01:00 +0000</pubDate>
 <description>Department of Defense - Location not listed - NAICS 236220 - due Jan 12, 2027 - Small Business Set Aside - Total</description>
-</item><item><title>Z2DA--FY27 NRM RENOVATE SURGICAL SUITE  PHASE II</title><link>https://sam.gov/opp/31f4eee89b944a029870b8968cb311ea/view</link>
-<guid isPermaLink="false">31f4eee89b944a029870b8968cb311ea</guid>
-<pubDate>Wed, 25 Nov 2026 11:01:00 +0000</pubDate>
-<description>Department of Veterans Affairs - VA - NAICS 236220 - due Dec 11, 2026 - No Set aside used</description>
 </item></channel></rss>
