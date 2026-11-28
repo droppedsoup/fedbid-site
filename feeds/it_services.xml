@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>New federal IT services bids</title><link>https://fedbid.us/trades/it_services.html</link>
 <description>New federal contract opportunities from SAM.gov, by FedBid.us</description>
-<lastBuildDate>Fri, 27 Nov 2026 12:00:12 +0000</lastBuildDate><item><title>R--IT TSC - DATA ANALYTICS AND SERVICES</title><link>https://sam.gov/opp/345d81680f894c5f97a3d972806780c5/view</link>
+<lastBuildDate>Sat, 28 Nov 2026 12:00:07 +0000</lastBuildDate><item><title>FIID Advanced Anti-Fraud and Risk-Modeling Proof of Concept</title><link>https://sam.gov/opp/17878c50e7734edf9371b6c03f867aa5/view</link>
+<guid isPermaLink="false">17878c50e7734edf9371b6c03f867aa5</guid>
+<pubDate>Sat, 28 Nov 2026 11:00:23 +0000</pubDate>
+<description>Department of Homeland Security - Washington, DC - NAICS 541512 - due Dec 11, 2026</description>
+</item><item><title>DA10--Enterprise Database Vulnerability Scanning Solution  Request For Information Amendment</title><link>https://sam.gov/opp/8bf8f1cc17024c52b4b890b8a9a9d680/view</link>
+<guid isPermaLink="false">8bf8f1cc17024c52b4b890b8a9a9d680</guid>
+<pubDate>Sat, 28 Nov 2026 11:00:23 +0000</pubDate>
+<description>Department of Veterans Affairs - Location not listed - NAICS 541519 - due Dec 2, 2026</description>
+</item><item><title>R--IT TSC - DATA ANALYTICS AND SERVICES</title><link>https://sam.gov/opp/345d81680f894c5f97a3d972806780c5/view</link>
 <guid isPermaLink="false">345d81680f894c5f97a3d972806780c5</guid>
 <pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
 <description>Department of the Interior - Location not listed - NAICS 541512 - due Nov 30, 2026</description>
@@ -25,10 +33,6 @@
 <guid isPermaLink="false">a6ddec3385a54a7b8373f35f08d23f37</guid>
 <pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
 <description>Department of the Interior - Location not listed - NAICS 541519 - due Dec 4, 2026</description>
-</item><item><title>DLA-RFI-CT-2027-WBOS-MKTRES</title><link>https://sam.gov/opp/a940f678f3134c4ab0b5acacfcc54e5f/view</link>
-<guid isPermaLink="false">a940f678f3134c4ab0b5acacfcc54e5f</guid>
-<pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
-<description>Department of Defense - PA - NAICS 541512 - due Nov 27, 2026</description>
 </item><item><title>Solicitation for IDIQ Contract for Biology Testing of DM</title><link>https://sam.gov/opp/ad470dadb4fc4cd397aa7ea9f83ab393/view</link>
 <guid isPermaLink="false">ad470dadb4fc4cd397aa7ea9f83ab393</guid>
 <pubDate>Thu, 26 Nov 2026 11:00:25 +0000</pubDate>
@@ -153,10 +157,6 @@
 <guid isPermaLink="false">267c8f43199249138d0fbaee8d4be1c5</guid>
 <pubDate>Sat, 21 Nov 2026 11:00:10 +0000</pubDate>
 <description>Federal Deposit Insurance Corporation - Arlington, VA - NAICS 541519 - due Nov 30, 2026 - No Set aside used</description>
-</item><item><title>DLA-RFI-CT-2027-WBOS-MKTRES</title><link>https://sam.gov/opp/2f457e8ce04944978a823a1ad8112abb/view</link>
-<guid isPermaLink="false">2f457e8ce04944978a823a1ad8112abb</guid>
-<pubDate>Sat, 21 Nov 2026 11:00:10 +0000</pubDate>
-<description>Department of Defense - PA - NAICS 541512 - due Nov 27, 2026</description>
 </item><item><title>Digital Pesticide Labeling Platform Pilot</title><link>https://sam.gov/opp/30316c938edf4019a4b97cd8777f4e09/view</link>
 <guid isPermaLink="false">30316c938edf4019a4b97cd8777f4e09</guid>
 <pubDate>Sat, 21 Nov 2026 11:00:10 +0000</pubDate>
